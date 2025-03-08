@@ -1,11 +1,19 @@
 document.addEventListener('DOMContentLoaded', function() {
   // 确保Vue和Element UI已加载
-  const checkVueLoaded = setInterval(function() {
-    if (window.Vue && window.ELEMENT) {
-      clearInterval(checkVueLoaded);
-      initCopyNotify();
-    }
-  }, 100);
+  const initWhenReady = () => {
+  if (window.Vue && window.ELEMENT) {
+    initCopyNotify();
+  } else {
+    Vue && Vue.use(ELEMENT);
+    window.addEventListener('load', initCopyNotify);
+  }
+};
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initWhenReady);
+} else {
+  initWhenReady();
+}
 
   function initCopyNotify() {
     new Vue({
@@ -20,17 +28,25 @@ document.addEventListener('DOMContentLoaded', function() {
         };
       },
       mounted: function () {
-        document.addEventListener('copy', () => {
-          this.$notify({
-            title: "你已被发现😜",
-            message: this.message,
-            position: this.position,
-            offset: this.offset,
-            showClose: this.showClose,
-            type: this.type,
-            duration: this.duration
-          });
-        });
+        try {
+  document.addEventListener('copy', () => {
+    if (this.$notify) {
+      this.$notify({
+        title: "你已被发现😜",
+        message: this.message,
+        position: this.position,
+        offset: this.offset,
+        showClose: this.showClose,
+        type: this.type,
+        duration: this.duration
+      });
+    } else {
+      console.error('Element UI notify method not available');
+    }
+  });
+} catch (error) {
+  console.error('Copy event listener error:', error);
+}
       }
     });
   }
