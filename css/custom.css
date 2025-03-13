@@ -303,3 +303,11 @@ h6::before {
   -webkit-animation: ccc 6s linear infinite;
   animation: ccc 6s linear infinite;
 }
+
+/* 社交图标hover效果 */
+.social-icon {
+  transition: transform 0.3s ease;
+}
+.social-icon:hover {
+  transform: translateY(-2px);
+}

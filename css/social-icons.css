@@ -1,0 +1,60 @@
+/* 自定义社交图标样式 */
+
+/* 隐藏原有的社交图标 */
+.card-info-social-icons .social-icon i.iconfont.icon-gitee,
+.card-info-social-icons .social-icon i.iconfont.icon-csdn {
+  display: none !important;
+}
+
+/* Gitee图标样式 */
+.card-info-social-icons .social-icon[href*="gitee.com"] {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #c71d23;
+  margin: 0 10px;
+  transition: transform 0.3s ease;
+}
+
+.card-info-social-icons .social-icon[href*="gitee.com"]:hover {
+  transform: translateY(-2px);
+}
+
+.card-info-social-icons .social-icon[href*="gitee.com"]::after {
+  content: "";
+  display: block;
+  width: 20px;
+  height: 20px;
+  background-image: url("https://gitee.com/static/images/logo-black.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: brightness(0) invert(1);
+}
+
+/* CSDN图标样式 */
+.card-info-social-icons .social-icon[href*="csdn.net"] {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  margin: 0 10px;
+  transition: transform 0.3s ease;
+}
+
+.card-info-social-icons .social-icon[href*="csdn.net"]:hover {
+  transform: translateY(-2px);
+}
+
+.card-info-social-icons .social-icon[href*="csdn.net"]::after {
+  content: "";
+  display: block;
+  width: 32px;
+  height: 32px;
+  background-image: url("https://g.csdnimg.cn/static/logo/favicon32.ico");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}

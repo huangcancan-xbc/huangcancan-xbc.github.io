@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('/css/font/iconfont.woff2') format('woff2');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 1.2em;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-github:before {
+  content: "\e709";
+}
+
+.icon-gitee:before {
+  content: "\e60c";
+}
+
+.icon-csdn:before {
+  content: "\e60a";
+}
+
+.icon-fw:before {
+  content: "\e6a3";
+}
