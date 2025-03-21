@@ -36,26 +36,45 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-/* 使用Font Awesome图标 */
+/* Font Awesome实现方案 */
 .card-info-social-icons .social-icon i {
-  font-size: var(--icon-inner-size);
-  color: white !important;
-  display: block !important;
+  font-size: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.card-info-social-icons .social-icon:hover i {
+  transform: scale(1.2);
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+}
+
+/* 暗黑模式适配 */
+[data-theme="dark"] .card-info-social-icons .social-icon {
+  background-color: rgba(255,255,255,0.9);
+}
+
+[data-theme="dark"] .social-icon {
+  background-color: rgba(255,255,255,0.15) !important;
 }
 
 /* GitHub图标样式 */
-.card-info-social-icons .social-icon[href*="github.com"] {
-  background: var(--github-color);
+.social-icon i {
+  color: inherit;
+  transition: all 0.3s ease;
 }
 
-/* Gitee图标样式 */
-.card-info-social-icons .social-icon[href*="gitee.com"] {
-  background: var(--gitee-color);
+.social-icon:hover i {
+  transform: scale(1.2);
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
 }
 
-/* CSDN图标样式 */
-.card-info-social-icons .social-icon[href*="csdn.net"] {
-  background: var(--csdn-color);
+/* 图标字体定义 */
+.card-info-social-icons .fa-github-square:before {
+  content: "\f092";
+}
+
+.card-info-social-icons .icon-gitee:before,
+.card-info-social-icons .icon-csdn:before {
+  font-family: 'iconfont' !important;
 }
 
 /* 添加悬停时的脉冲效果 */
@@ -71,11 +90,13 @@
   }
 }
 
-/* 确保所有社交图标都有正确的颜色 */
-.card-info-social-icons .social-icon[href*="gitee.com"] i,
-.card-info-social-icons .social-icon[href*="csdn.net"] i,
-.card-info-social-icons .social-icon[href*="github.com"] i {
-  color: white !important;
+/* 图标颜色适配 */
+.card-info-social-icons .social-icon {
+  background: rgba(0,0,0,0.1);
+}
+
+[data-theme="dark"] .card-info-social-icons .social-icon {
+  background: rgba(255,255,255,0.1);
 }
 
 .card-info-social-icons .social-icon:hover i {

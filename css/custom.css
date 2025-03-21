@@ -305,3 +305,6 @@ h6::before {
 }
 
 /* 社交图标样式已移至social-icons.css */
+.post-content {
+  font-size: 1.3em;
+}
