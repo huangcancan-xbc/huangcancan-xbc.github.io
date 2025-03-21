@@ -1,60 +1,95 @@
-/* 自定义社交图标样式 */
+/* 重构的社交图标样式 */
 
-/* 隐藏原有的社交图标 */
-.card-info-social-icons .social-icon i.iconfont.icon-gitee,
-.card-info-social-icons .social-icon i.iconfont.icon-csdn {
-  display: none !important;
+/* 通用样式 */
+:root {
+  --github-color: #24292e;
+  --gitee-color: #c71d23;
+  --csdn-color: #fc5531;
+  --icon-size: 32px;
+  --icon-inner-size: 20px;
+  --transition-time: 0.3s;
 }
 
-/* Gitee图标样式 */
-.card-info-social-icons .social-icon[href*="gitee.com"] {
-  width: 32px;
-  height: 32px;
+.card-info-social-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.card-info-social-icons .social-icon {
+  width: var(--icon-size);
+  height: var(--icon-size);
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  background: #c71d23;
-  margin: 0 10px;
-  transition: transform 0.3s ease;
+  transition: all var(--transition-time) ease;
+  position: relative;
+  color: white;
+  text-decoration: none;
 }
 
-.card-info-social-icons .social-icon[href*="gitee.com"]:hover {
-  transform: translateY(-2px);
+.card-info-social-icons .social-icon:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-.card-info-social-icons .social-icon[href*="gitee.com"]::after {
-  content: "";
-  display: block;
-  width: 20px;
-  height: 20px;
-  background-image: url("https://gitee.com/static/images/logo-black.svg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  filter: brightness(0) invert(1);
+/* 使用Font Awesome图标 */
+.card-info-social-icons .social-icon i {
+  font-size: var(--icon-inner-size);
+  color: white !important;
+  display: block !important;
+}
+
+/* GitHub图标样式 */
+.card-info-social-icons .social-icon[href*="github.com"] {
+  background: var(--github-color);
+}
+
+/* Gitee图标样式 */
+.card-info-social-icons .social-icon[href*="gitee.com"] {
+  background: var(--gitee-color);
 }
 
 /* CSDN图标样式 */
 .card-info-social-icons .social-icon[href*="csdn.net"] {
-  width: 32px;
-  height: 32px;
-  display: inline-block;
-  margin: 0 10px;
-  transition: transform 0.3s ease;
+  background: var(--csdn-color);
 }
 
-.card-info-social-icons .social-icon[href*="csdn.net"]:hover {
-  transform: translateY(-2px);
+/* 添加悬停时的脉冲效果 */
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 
-.card-info-social-icons .social-icon[href*="csdn.net"]::after {
-  content: "";
-  display: block;
-  width: 32px;
-  height: 32px;
-  background-image: url("https://g.csdnimg.cn/static/logo/favicon32.ico");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
+/* 确保所有社交图标都有正确的颜色 */
+.card-info-social-icons .social-icon[href*="gitee.com"] i,
+.card-info-social-icons .social-icon[href*="csdn.net"] i,
+.card-info-social-icons .social-icon[href*="github.com"] i {
+  color: white !important;
+}
+
+.card-info-social-icons .social-icon:hover i {
+  animation: pulse 1s infinite;
+}
+
+/* 适配移动设备 */
+@media screen and (max-width: 768px) {
+  :root {
+    --icon-size: 28px;
+    --icon-inner-size: 16px;
+  }
+  
+  .card-info-social-icons {
+    gap: 8px;
+  }
 }
