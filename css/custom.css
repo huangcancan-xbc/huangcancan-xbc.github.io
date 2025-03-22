@@ -1,73 +1,94 @@
 /* 侧边栏个人信息卡片动态渐变色 */
 #aside-content > .card-widget.card-info {
-  background: linear-gradient(
-    -45deg,
-    #e8d8b9,
-    #eccec5,
-    #a3e9eb,
-    #bdbdf0,
-    #eec1ea
-  );
+  background: linear-gradient(-45deg, #e8d8b9, #eccec5, #a3e9eb, #bdbdf0, #eec1ea);
   box-shadow: 0 0 5px rgb(66, 68, 68);
   position: relative;
   background-size: 400% 400%;
-  -webkit-animation: Gradient 10s ease infinite;
-  -moz-animation: Gradient 10s ease infinite;
-  animation: Gradient 10s ease infinite !important;
+  -webkit-animation: Gradient 8s ease infinite;
+  -moz-animation: Gradient 8s ease infinite;
+  animation: Gradient 8s ease infinite !important;
 }
 @-webkit-keyframes Gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 @-moz-keyframes Gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 @keyframes Gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 
 /* 黑夜模式适配 */
 [data-theme="dark"] #aside-content > .card-widget.card-info {
-  background: linear-gradient(
-    -45deg,
-    #1a1a2e,
-    #1e2a4a,
-    #2a3c5a,
-    #1e2a4a,
-    #1a1a2e
-  );
+  background: linear-gradient(-45deg, #1a1a2e, #1e2a4a, #2a3c5a, #1e2a4a, #1a1a2e);
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.8);
   background-size: 400% 400%;
-  animation: Gradient 15s ease infinite !important;
+  animation: Gradient 10s ease infinite !important;
 }
 
 /* 个人信息Follow me按钮 */
 #aside-content > .card-widget.card-info > #card-info-btn {
   background-color: #3eb8be;
   border-radius: 8px;
+}
+
+/* 右侧栏切换按钮样式 */
+#rightside-toggle {
+  position: fixed;
+  right: 20px;
+  bottom: 80px;
+  z-index: 999;
+  width: 35px;
+  height: 35px;
+  background: rgba(62, 184, 190, 0.8);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+#rightside-toggle:hover {
+  transform: scale(1.1);
+  background: #3eb8be;
+}
+#rightside-toggle .toggle-icon {
+  display: block;
+  color: white;
+  font-size: 18px;
+  transition: transform 0.3s ease;
+}
+
+/* 暗黑模式适配 */
+[data-theme="dark"] #rightside-toggle {
+  background: rgba(26, 26, 46, 0.8);
+}
+[data-theme="dark"] #rightside-toggle:hover {
+  background: #1a1a2e;
+}
+
+/* 博客主标题样式 */
+#site-title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--text-color);
+  transition: all 0.3s ease;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+  #site-title {
+    font-size: 2rem;
+  }
+}
+
+/* 深色模式适配 */
+[data-theme="dark"] #site-title {
+  color: rgba(255, 255, 255, 0.9);
 }
 
 /* 鼠标样式 */
@@ -83,27 +104,16 @@
   transition: 0.2s ease-in-out;
   transition-property: background, opacity, transform;
 }
-
 #cursor.hidden {
   opacity: 0;
 }
-
 #cursor.hover {
   opacity: 0.1;
   transform: scale(2.5);
-  -webkit-transform: scale(2.5);
-  -moz-transform: scale(2.5);
-  -ms-transform: scale(2.5);
-  -o-transform: scale(2.5);
 }
-
 #cursor.active {
   opacity: 0.5;
   transform: scale(0.5);
-  -webkit-transform: scale(0.5);
-  -moz-transform: scale(0.5);
-  -ms-transform: scale(0.5);
-  -o-transform: scale(0.5);
 }
 
 /* 页面样式调节 - 添加毛玻璃透明效果 */
@@ -112,6 +122,73 @@
   --trans-dark: rgba(25, 25, 25, 0.88);
   --border-style: 1px solid rgb(169, 169, 169);
   --backdrop-filter: blur(5px) saturate(150%);
+}
+
+/* 文章标题样式增强 */
+#post-info .post-title {
+  font-size: 3.2em !important;
+  font-weight: 700 !important;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
+
+/* 移动端适配 */
+@media screen and (max-width: 768px) {
+  #post-info .post-title {
+    font-size: 2.5em !important;
+  }
+}
+
+/* 修复波浪线覆盖标题问题 */
+.main-hero-waves-area {
+  z-index: 1 !important;
+}
+#post-info {
+  position: relative;
+  z-index: 2 !important;
+  padding-bottom: 20px;
+}
+
+/* 修复文章标题覆盖元数据问题 */
+#post-info #post-meta {
+  position: relative;
+  z-index: 3 !important;
+  margin-top: 10px;
+  color: var(--light-grey);
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+#post-info #post-meta .post-meta-date,
+#post-info #post-meta .post-meta-categories,
+#post-info #post-meta .post-meta-wordcount {
+  display: inline-block;
+  margin-right: 8px;
+}
+
+/* 文章底部浮动分享组件 */
+.post-share {
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 15px;
+  padding: 12px 20px;
+  background: var(--trans-light);
+  backdrop-filter: var(--backdrop-filter);
+  border-radius: 30px;
+  border: var(--border-style);
+  z-index: 999;
+}
+[data-theme="dark"] .post-share {
+  background: var(--trans-dark);
+}
+@media screen and (max-width: 768px) {
+  .post-share {
+    bottom: 70px;
+    gap: 10px;
+    padding: 10px 15px;
+  }
 }
 
 /* 首页文章卡片 */
@@ -145,7 +222,6 @@ div#archive {
   background: rgba(255, 255, 255, 0.75);
   backdrop-filter: var(--backdrop-filter);
 }
-
 [data-theme="dark"] #page-header.nav-fixed #nav {
   background: rgba(0, 0, 0, 0.7) !important;
 }
@@ -207,75 +283,54 @@ div#archive {
 }
 
 /* 文章页H1-H6图标样式效果 */
-/* 控制风车转动速度 4s那里可以自己调节快慢 */
 h1::before,
 h2::before,
 h3::before,
 h4::before,
 h5::before,
 h6::before {
-  -webkit-animation: ccc 4s linear infinite;
-  animation: ccc 4s linear infinite;
+  -webkit-animation: ccc 3s linear infinite;
+  animation: ccc 3s linear infinite;
 }
-
 @-webkit-keyframes ccc {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  to {
-    -webkit-transform: rotate(-1turn);
-    transform: rotate(-1turn);
-  }
+  0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+  to { -webkit-transform: rotate(-1turn); transform: rotate(-1turn); }
 }
-
 @keyframes ccc {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  to {
-    -webkit-transform: rotate(-1turn);
-    transform: rotate(-1turn);
-  }
+  0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+  to { -webkit-transform: rotate(-1turn); transform: rotate(-1turn); }
 }
 
-/* 设置风车颜色 */
 #content-inner.layout h1::before {
   color: #ef50a8;
   margin-left: -1.55rem;
   font-size: 1.3rem;
   margin-top: -0.23rem;
 }
-
 #content-inner.layout h2::before {
   color: #fb7061;
   margin-left: -1.35rem;
   font-size: 1.1rem;
   margin-top: -0.12rem;
 }
-
 #content-inner.layout h3::before {
   color: #ffbf00;
   margin-left: -1.22rem;
   font-size: 0.95rem;
   margin-top: -0.09rem;
 }
-
 #content-inner.layout h4::before {
   color: #a9e000;
   margin-left: -1.05rem;
   font-size: 0.8rem;
   margin-top: -0.09rem;
 }
-
 #content-inner.layout h5::before {
   color: #57c850;
   margin-left: -0.9rem;
   font-size: 0.7rem;
   margin-top: 0rem;
 }
-
 #content-inner.layout h6::before {
   color: #5ec1e0;
   margin-left: -0.9rem;
@@ -283,7 +338,6 @@ h6::before {
   margin-top: 0rem;
 }
 
-/* 设置风车hover动效 6s那里可以自己调节快慢*/
 #content-inner.layout h1:hover,
 #content-inner.layout h2:hover,
 #content-inner.layout h3:hover,
@@ -292,7 +346,6 @@ h6::before {
 #content-inner.layout h6:hover {
   color: var(--theme-color);
 }
-
 #content-inner.layout h1:hover::before,
 #content-inner.layout h2:hover::before,
 #content-inner.layout h3:hover::before,
@@ -304,7 +357,131 @@ h6::before {
   animation: ccc 6s linear infinite;
 }
 
+/* 分享功能容器样式，固定在文章右下角 */
+.post-share {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 10px;
+  padding: 10px 15px;
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(5px) saturate(150%);
+  border-radius: 30px;
+  border: 1px solid rgb(169, 169, 169);
+  z-index: 999;
+}
+
+[data-theme="dark"] .post-share {
+  background: rgba(25, 25, 25, 0.88);
+}
+
+/* 分享功能容器样式，固定在文章右下角 */
+.post-share {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 10px;
+  padding: 10px 15px;
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(5px) saturate(150%);
+  border-radius: 30px;
+  border: 1px solid rgb(169, 169, 169);
+  z-index: 999;
+}
+
+[data-theme="dark"] .post-share {
+  background: rgba(25, 25, 25, 0.88);
+}
+
+/* 移动端适配：分享功能位置调整 */
+@media screen and (max-width: 768px) {
+  .post-share {
+    bottom: 10px;
+    right: 10px;
+    gap: 8px;
+    padding: 8px 12px;
+  }
+
+  .share-btn {
+    width: 30px;
+    height: 30px;
+  }
+}
+
 /* 社交图标样式已移至social-icons.css */
+
+/* 调整文章主体宽度 */
+#post {
+  max-width: 90% !important;
+  margin: 0 auto !important;
+}
+
+/* 修改移动端布局 */
+@media screen and (max-width: 900px) {
+  #post {
+    max-width: 95% !important;
+  }
+}
 .post-content {
   font-size: 1.3em;
+}
+
+/* 头像呼吸灯 */
+[data-theme="light"] .avatar-img {
+  animation: huxi_light 5s ease-in-out infinite;
+}
+[data-theme="dark"] .avatar-img {
+  animation: huxi_dark 5s ease-in-out infinite;
+}
+@keyframes huxi_light {
+  0% { box-shadow: 0px 0px 1px 1px #36b18c; }
+  50% { box-shadow: 0px 0px 5px 5px #e4a269; }
+  100% { box-shadow: 0px 0px 1px 1px #bb24b6; }
+}
+@keyframes huxi_dark {
+  0% { box-shadow: 0px 0px 1px 1px #d0396e; }
+  50% { box-shadow: 0px 0px 5px 5px #ae27a5; }
+  100% { box-shadow: 0px 0px 1px 1px #1841a1; }
+}
+
+/* 全局宽度 */
+.layout {
+  max-width: 1400px;
+}
+
+/* 侧边卡片栏宽度 */
+.aside-content {
+  max-width: 318px;
+  min-width: 300px;
+}
+
+/* 平板尺寸自适应(不启用侧边栏宽度限制) */
+@media screen and (max-width: 900px) {
+  .aside-content {
+    max-width: none !important;
+    padding: 0 5px 0 5px;
+  }
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background-color: white; /* 修改背景为白色 */
+  border-radius: 2em;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(69, 205, 162); /* 修改进度滚轮为绿色 */
+  border-radius: 2em;
+}
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+::-moz-selection {
+  color: #fff;
+  background-color: var(--theme-color);
 }

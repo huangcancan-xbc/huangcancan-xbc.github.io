@@ -1,0 +1,17 @@
+/* 分享按钮常驻显示样式 */
+#share-btn {
+  display: block !important;
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+/* 确保分享按钮在rightside-config-hide中也能显示 */
+#rightside-config-hide #share-btn {
+  display: block !important;
+  opacity: 1 !important;
+}
+
+/* 悬停效果 */
+#share-btn:hover {
+  background-color: var(--btn-hover-color) !important;
+}

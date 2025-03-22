@@ -462,6 +462,23 @@ document.addEventListener('DOMContentLoaded', () => {
   * toc,anchor
   */
   const scrollFnToDo = () => {
+    // 添加手动展开功能
+    const handleManualToggle = () => {
+      const $tocContent = document.querySelector('.toc-content');
+      const isExpanded = localStorage.getItem('tocManualExpand') === 'true';
+      $tocContent.classList.toggle('is-expand', !isExpanded);
+      localStorage.setItem('tocManualExpand', !isExpanded);
+    };
+
+    // 创建切换按钮
+    const createToggleButton = () => {
+      const toggleBtn = document.createElement('div');
+      toggleBtn.className = 'toc-toggle-btn';
+      toggleBtn.innerHTML = '▶';
+      toggleBtn.addEventListener('click', handleManualToggle);
+      document.getElementById('card-toc').prepend(toggleBtn);
+    };
+
     const isToc = GLOBAL_CONFIG_SITE.isToc
     const isAnchor = GLOBAL_CONFIG.isAnchor
     const $article = document.getElementById('article-container')
