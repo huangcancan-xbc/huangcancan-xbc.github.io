@@ -1,18 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
-  // 检查是否在朋友圈页面
-  if (document.querySelector('.fcircle_page')) {
-    console.log('朋友圈页面初始化');
-    
-    // 随机文章功能
-    const fetchRandomPost = () => {
-      const randomPostContainer = document.getElementById('random-post');
-      if (randomPostContainer) {
-        randomPostContainer.innerHTML = '<div style="text-align:center;padding:20px;">加载中...</div>';
-        
-        // 这里可以添加获取随机文章的逻辑
-        // 示例：显示一些模拟数据
-        setTimeout(() => {
-          randomPostContainer.innerHTML = `
+document.addEventListener("DOMContentLoaded",function(){if(document.querySelector(".fcircle_page")){console.log("朋友圈页面初始化");const i=()=>{const i=document.getElementById("random-post");if(i){i.innerHTML='<div style="text-align:center;padding:20px;">加载中...</div>';setTimeout(()=>{i.innerHTML=`
             <div class="fish-pond-item">
               <div class="fish-pond-item-content">
                 <div class="fish-pond-item-inner">
@@ -24,21 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
               </div>
             </div>
-          `;
-        }, 500);
-      }
-    };
-    
-    // 初始化朋友圈
-    const initFriendCircle = () => {
-      const fcircleContainer = document.getElementById('hexo-circle-of-friends-root');
-      if (fcircleContainer) {
-        fcircleContainer.innerHTML = '<div style="text-align:center;padding:20px;">加载中...</div>';
-        
-        // 这里可以添加获取朋友圈数据的逻辑
-        // 示例：显示一些模拟数据
-        setTimeout(() => {
-          fcircleContainer.innerHTML = `
+          `},500)}};const s=()=>{const i=document.getElementById("hexo-circle-of-friends-root");if(i){i.innerHTML='<div style="text-align:center;padding:20px;">加载中...</div>';setTimeout(()=>{i.innerHTML=`
             <div class="fish-pond">
               <div class="fish-pond-item">
                 <div class="fish-pond-item-content">
@@ -77,22 +49,4 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
               </div>
             </div>
-          `;
-        }, 800);
-      }
-    };
-    
-    // 绑定随机文章按钮事件
-    const randomPostBtn = document.querySelector('.random-post-start');
-    if (randomPostBtn) {
-      randomPostBtn.addEventListener('click', fetchRandomPost);
-    }
-    
-    // 初始化加载
-    fetchRandomPost();
-    initFriendCircle();
-    
-    // 将函数暴露到全局作用域，以便在页面中调用
-    window.fetchRandomPost = fetchRandomPost;
-  }
-});
+          `},800)}};const d=document.querySelector(".random-post-start");if(d){d.addEventListener("click",i)}i();s();window.fetchRandomPost=i}});

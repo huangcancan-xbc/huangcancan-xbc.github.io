@@ -1,19 +1,8 @@
-function initFooterAnimal() {
-    const footerBar = document.querySelector('#footer-bar');
-    if (!footerBar) return console.error('找不到指定元素');
-
-    const footerAnimal = document.createElement('div');
-    footerAnimal.id = 'footer-animal';
-    footerAnimal.innerHTML = `
+function initFooterAnimal(){const e=document.querySelector("#footer-bar");if(!e)return console.error("找不到指定元素");const t=document.createElement("div");t.id="footer-animal";t.innerHTML=`
         <img class="animal entered loaded"
             src="https://i1.wp.com/ruom.wuaze.com/i/2024/10/19/473503.webp"
             alt="动物" />
-    `;
-    
-    footerBar.insertAdjacentElement('beforebegin', footerAnimal);
-
-    const style = document.createElement('style');
-    style.textContent = `
+    `;e.insertAdjacentElement("beforebegin",t);const o=document.createElement("style");o.textContent=`
         #footer-animal {
             position: relative;
         }
@@ -43,9 +32,4 @@ function initFooterAnimal() {
         [data-theme=dark] #footer-animal {
             filter: brightness(.8);
         }
-    `;
-    document.head.appendChild(style);
-}
-
-document.addEventListener('DOMContentLoaded', initFooterAnimal);
-document.addEventListener('pjax:success', initFooterAnimal);
+    `;document.head.appendChild(o)}document.addEventListener("DOMContentLoaded",initFooterAnimal);document.addEventListener("pjax:success",initFooterAnimal);

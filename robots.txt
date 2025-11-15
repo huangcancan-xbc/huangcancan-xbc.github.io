@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Sitemap declarations
+Sitemap: https://www.minbit.top/sitemap.xml
+Sitemap: https://www.minbit.top/sitemap.txt
+Sitemap: https://www.minbit.top/atom.xml
