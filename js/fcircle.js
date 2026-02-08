@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded",function(){if(document.querySelector(".fcircle_page")){console.log("朋友圈页面初始化");const i=()=>{const i=document.getElementById("random-post");if(i){i.innerHTML='<div style="text-align:center;padding:20px;">加载中...</div>';setTimeout(()=>{i.innerHTML=`
+document.addEventListener("DOMContentLoaded",function(){var i,d;document.querySelector(".fcircle_page")&&(console.log("朋友圈页面初始化"),i=()=>{let i=document.getElementById("random-post");i&&(i.innerHTML='<div style="text-align:center;padding:20px;">加载中...</div>',setTimeout(()=>{i.innerHTML=`
             <div class="fish-pond-item">
               <div class="fish-pond-item-content">
                 <div class="fish-pond-item-inner">
@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded",function(){if(document.querySelecto
                 </div>
               </div>
             </div>
-          `},500)}};const s=()=>{const i=document.getElementById("hexo-circle-of-friends-root");if(i){i.innerHTML='<div style="text-align:center;padding:20px;">加载中...</div>';setTimeout(()=>{i.innerHTML=`
+          `},500))},(d=document.querySelector(".random-post-start"))&&d.addEventListener("click",i),i(),(()=>{let i=document.getElementById("hexo-circle-of-friends-root");i&&(i.innerHTML='<div style="text-align:center;padding:20px;">加载中...</div>',setTimeout(()=>{i.innerHTML=`
             <div class="fish-pond">
               <div class="fish-pond-item">
                 <div class="fish-pond-item-content">
@@ -49,4 +49,4 @@ document.addEventListener("DOMContentLoaded",function(){if(document.querySelecto
                 </div>
               </div>
             </div>
-          `},800)}};const d=document.querySelector(".random-post-start");if(d){d.addEventListener("click",i)}i();s();window.fetchRandomPost=i}});
+          `},800))})(),window.fetchRandomPost=i)});

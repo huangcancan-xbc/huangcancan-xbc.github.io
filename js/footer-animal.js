@@ -1,8 +1,8 @@
-function initFooterAnimal(){const e=document.querySelector("#footer-bar");if(!e)return console.error("找不到指定元素");const t=document.createElement("div");t.id="footer-animal";t.innerHTML=`
+function initFooterAnimal(){var e=document.querySelector("#footer-bar");if(!e)return console.error("找不到指定元素");var t=document.createElement("div"),e=(t.id="footer-animal",t.innerHTML=`
         <img class="animal entered loaded"
             src="https://i1.wp.com/ruom.wuaze.com/i/2024/10/19/473503.webp"
             alt="动物" />
-    `;e.insertAdjacentElement("beforebegin",t);const o=document.createElement("style");o.textContent=`
+    `,e.insertAdjacentElement("beforebegin",t),document.createElement("style"));e.textContent=`
         #footer-animal {
             position: relative;
         }
@@ -32,4 +32,4 @@ function initFooterAnimal(){const e=document.querySelector("#footer-bar");if(!e)
         [data-theme=dark] #footer-animal {
             filter: brightness(.8);
         }
-    `;document.head.appendChild(o)}document.addEventListener("DOMContentLoaded",initFooterAnimal);document.addEventListener("pjax:success",initFooterAnimal);
+    `,document.head.appendChild(e)}document.addEventListener("DOMContentLoaded",initFooterAnimal),document.addEventListener("pjax:success",initFooterAnimal);

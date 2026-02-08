@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小米里的大麦</title>
+    <link>https://www.minbit.top/</link>
+    
+    <atom:link href="https://www.minbit.top/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>时间好像总会留下点什么，或许是一个人，或许是一个梦，或许……是一段有意义的经历~</description>
+    <pubDate>Sun, 01 Feb 2026 02:10:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>一台服务器 / VPS 的玩法：1Panel 面板与 3x-ui 的完美融合</title>
+      <link>https://www.minbit.top/posts/13131.html</link>
+      <guid>https://www.minbit.top/posts/13131.html</guid>
+      <pubDate>Sat, 31 Jan 2026 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;一台服务器-VPS-的玩法：1Panel-面板与-3x-ui-的完美融合&quot;&gt;&lt;a href=&quot;#一台服务器-VPS-的玩法：1Panel-面板与-3x-ui-的完美融合&quot; class=&quot;headerlink&quot; title=&quot;一台服务器 &amp;#x2F; VPS  的玩法：1Panel 面板与 3x-ui 的完美融合&quot;&gt;&lt;/a&gt;一台服务器 &amp;#x2F; VPS  的玩法：1Panel 面</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
+      
+      <category domain="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/">网络</category>
+      
+      <category domain="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/">涨知识</category>
+      
+      
+      <comments>https://www.minbit.top/posts/13131.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>实用的 Obsidian 的插件</title>
+      <link>https://www.minbit.top/posts/62197.html</link>
+      <guid>https://www.minbit.top/posts/62197.html</guid>
+      <pubDate>Sat, 24 Jan 2026 05:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;我使用的-Obsidian-插件&quot;&gt;&lt;a href=&quot;#我使用的-Obsidian-插件&quot; class=&quot;headerlink&quot; title=&quot;我使用的 Obsidian 插件&quot;&gt;&lt;/a&gt;我使用的 Obsidian 插件&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Style Settings&lt;/strong&gt;：主题&amp;#x2F;插件 CSS 变量的“控制面板</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/Obsidian/">Obsidian</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      <category domain="https://www.minbit.top/tags/Obsidian/">Obsidian</category>
+      
+      
+      <comments>https://www.minbit.top/posts/62197.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>解决 Gemini “出了点问题”</title>
+      <link>https://www.minbit.top/posts/50073.html</link>
+      <guid>https://www.minbit.top/posts/50073.html</guid>
+      <pubDate>Wed, 14 Jan 2026 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;解决-Gemini-“出了点问题”-的小技巧：Google-搜索永不过时&quot;&gt;&lt;a href=&quot;#解决-Gemini-“出了点问题”-的小技巧：Google-搜索永不过时&quot; class=&quot;headerlink&quot; title=&quot;解决 Gemini “出了点问题” 的小技巧：Google 搜索永不过时&quot;&gt;&lt;/a&gt;解决 Gemini “出了点问题” 的小技巧：Google 搜索永不过时&lt;/</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/">涨知识</category>
+      
+      
+      <comments>https://www.minbit.top/posts/50073.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2025 年度总结</title>
+      <link>https://www.minbit.top/posts/22243.html</link>
+      <guid>https://www.minbit.top/posts/22243.html</guid>
+      <pubDate>Wed, 31 Dec 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;2025-年度总结&quot;&gt;&lt;a href=&quot;#2025-年度总结&quot; class=&quot;headerlink&quot; title=&quot;2025 年度总结&quot;&gt;&lt;/a&gt;2025 年度总结&lt;/h1&gt;&lt;p&gt;这一年过的很快，快到什么程度呢，一句话总结：原来一个人忙起来，真是度年如日！来看看我这一年做了什么吧：&lt;/p&gt;
+&lt;h2 id=&quot;时间回溯-｜-年度进度条加载中&quot;&gt;&lt;a href=&quot;#时间回溯-｜-年度进度</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/%E5%8E%86%E7%A8%8B/">历程</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/%E5%8E%86%E7%A8%8B/">历程</category>
+      
+      
+      <comments>https://www.minbit.top/posts/22243.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>08 表的增删改查下</title>
+      <link>https://www.minbit.top/posts/39993.html</link>
+      <guid>https://www.minbit.top/posts/39993.html</guid>
+      <pubDate>Fri, 12 Dec 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;表的增删改查下&quot;&gt;&lt;a href=&quot;#表的增删改查下&quot; class=&quot;headerlink&quot; title=&quot;表的增删改查下&quot;&gt;&lt;/a&gt;表的增删改查下&lt;/h1&gt;&lt;h2 id=&quot;1-update（修改）&quot;&gt;&lt;a href=&quot;#1-update（修改）&quot; class=&quot;headerlink&quot; title=&quot;1. update（修改）&quot;&gt;&lt;/a&gt;1. update（修改）&lt;/h2&gt;&lt;h3 </description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      
+      
+      <comments>https://www.minbit.top/posts/39993.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>计算机的颜色表示</title>
+      <link>https://www.minbit.top/posts/28259.html</link>
+      <guid>https://www.minbit.top/posts/28259.html</guid>
+      <pubDate>Tue, 09 Dec 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;计算机的颜色表示&quot;&gt;&lt;a href=&quot;#计算机的颜色表示&quot; class=&quot;headerlink&quot; title=&quot;计算机的颜色表示&quot;&gt;&lt;/a&gt;计算机的颜色表示&lt;/h1&gt;&lt;h2 id=&quot;1-计算机为什么用-RGB-表示颜色？&quot;&gt;&lt;a href=&quot;#1-计算机为什么用-RGB-表示颜色？&quot; class=&quot;headerlink&quot; title=&quot;1. 计算机为什么用 RGB 表示颜色？&quot;&gt;&lt;</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/">涨知识</category>
+      
+      
+      <comments>https://www.minbit.top/posts/28259.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>解决代码文件中的乱码问题</title>
+      <link>https://www.minbit.top/posts/43509.html</link>
+      <guid>https://www.minbit.top/posts/43509.html</guid>
+      <pubDate>Sun, 07 Dec 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;解决代码文件中的乱码问题&quot;&gt;&lt;a href=&quot;#解决代码文件中的乱码问题&quot; class=&quot;headerlink&quot; title=&quot;解决代码文件中的乱码问题&quot;&gt;&lt;/a&gt;解决代码文件中的乱码问题&lt;/h1&gt;&lt;p&gt;你有没有遇到过：代码在 Visual Studio 中完美正常，在 VS Code 一打开却全是乱码？明明都是微软出品，却总在编码上“闹别扭”。别急，这个问题本质上是字符编码不一致</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/">涨知识</category>
+      
+      
+      <comments>https://www.minbit.top/posts/43509.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu 22.04 中安装 thefuck 与 tldr 工具</title>
+      <link>https://www.minbit.top/posts/38170.html</link>
+      <guid>https://www.minbit.top/posts/38170.html</guid>
+      <pubDate>Sat, 22 Nov 2025 04:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;Ubuntu-22-04-中安装-thefuck-与-tldr-工具&quot;&gt;&lt;a href=&quot;#Ubuntu-22-04-中安装-thefuck-与-tldr-工具&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu 22.04 中安装 thefuck 与 tldr 工具&quot;&gt;&lt;/a&gt;Ubuntu 22.04 中安装 thefuck 与 tldr 工具&lt;/h1&gt;&lt;p&gt;作为</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
+      
+      
+      <comments>https://www.minbit.top/posts/38170.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>CodeX CLI 的使用备忘</title>
+      <link>https://www.minbit.top/posts/31539.html</link>
+      <guid>https://www.minbit.top/posts/31539.html</guid>
+      <pubDate>Wed, 19 Nov 2025 04:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;CodeX-CLI-的使用备忘&quot;&gt;&lt;a href=&quot;#CodeX-CLI-的使用备忘&quot; class=&quot;headerlink&quot; title=&quot;CodeX CLI 的使用备忘&quot;&gt;&lt;/a&gt;CodeX CLI 的使用备忘&lt;/h1&gt;&lt;p&gt;想要使用 CodeX 得要是 ChatGPT 的 plus 及以上用户才能使用，但是网上也存在接入国产模型的教程，下面是我在使用 CodeX CLI 的一些</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/AI/">AI</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/AI/">AI</category>
+      
+      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      
+      <comments>https://www.minbit.top/posts/31539.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>VS Code 中的 Python 环境</title>
+      <link>https://www.minbit.top/posts/50161.html</link>
+      <guid>https://www.minbit.top/posts/50161.html</guid>
+      <pubDate>Fri, 14 Nov 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;VS-Code-中的-Python-环境&quot;&gt;&lt;a href=&quot;#VS-Code-中的-Python-环境&quot; class=&quot;headerlink&quot; title=&quot;VS Code 中的 Python 环境&quot;&gt;&lt;/a&gt;VS Code 中的 Python 环境&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;起因是闲暇之余用到了 python，打开 pycharm 一看，好家伙居然不给我用，需要进</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/VS-Code/">VS Code</category>
+      
+      <category domain="https://www.minbit.top/tags/Python/">Python</category>
+      
+      
+      <comments>https://www.minbit.top/posts/50161.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>浏览器小技巧</title>
+      <link>https://www.minbit.top/posts/46513.html</link>
+      <guid>https://www.minbit.top/posts/46513.html</guid>
+      <pubDate>Tue, 11 Nov 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;浏览器小技巧&quot;&gt;&lt;a href=&quot;#浏览器小技巧&quot; class=&quot;headerlink&quot; title=&quot;浏览器小技巧&quot;&gt;&lt;/a&gt;浏览器小技巧&lt;/h1&gt;&lt;h2 id=&quot;1-Chrome-Edge-开启高速多线程下载&quot;&gt;&lt;a href=&quot;#1-Chrome-Edge-开启高速多线程下载&quot; class=&quot;headerlink&quot; title=&quot;1. Chrome &amp;#x2F; Edge 开</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/">涨知识</category>
+      
+      
+      <comments>https://www.minbit.top/posts/46513.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>免费白嫖 ChatGPT Go 套餐</title>
+      <link>https://www.minbit.top/posts/41191.html</link>
+      <guid>https://www.minbit.top/posts/41191.html</guid>
+      <pubDate>Tue, 04 Nov 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;免费白嫖-ChatGPT-Go-套餐-12-个月（一年）&quot;&gt;&lt;a href=&quot;#免费白嫖-ChatGPT-Go-套餐-12-个月（一年）&quot; class=&quot;headerlink&quot; title=&quot;免费白嫖 ChatGPT Go 套餐 12 个月（一年）&quot;&gt;&lt;/a&gt;免费白嫖 ChatGPT Go 套餐 12 个月（一年）&lt;/h1&gt;&lt;h2 id=&quot;1-前提说明&quot;&gt;&lt;a href=&quot;#1-前</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/AI/">AI</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/AI/">AI</category>
+      
+      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      
+      <comments>https://www.minbit.top/posts/41191.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>07 表的增删改查上</title>
+      <link>https://www.minbit.top/posts/60665.html</link>
+      <guid>https://www.minbit.top/posts/60665.html</guid>
+      <pubDate>Sun, 02 Nov 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;表的增删改查上&quot;&gt;&lt;a href=&quot;#表的增删改查上&quot; class=&quot;headerlink&quot; title=&quot;表的增删改查上&quot;&gt;&lt;/a&gt;表的增删改查上&lt;/h1&gt;&lt;h2 id=&quot;1-Create（创建）&quot;&gt;&lt;a href=&quot;#1-Create（创建）&quot; class=&quot;headerlink&quot; title=&quot;1. Create（创建）&quot;&gt;&lt;/a&gt;1. Create（创建）&lt;/h2&gt;&lt;h3 </description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      
+      
+      <comments>https://www.minbit.top/posts/60665.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>06 表的约束</title>
+      <link>https://www.minbit.top/posts/37148.html</link>
+      <guid>https://www.minbit.top/posts/37148.html</guid>
+      <pubDate>Sat, 01 Nov 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;表的约束&quot;&gt;&lt;a href=&quot;#表的约束&quot; class=&quot;headerlink&quot; title=&quot;表的约束&quot;&gt;&lt;/a&gt;表的约束&lt;/h1&gt;&lt;h2 id=&quot;1-什么是表的约束？&quot;&gt;&lt;a href=&quot;#1-什么是表的约束？&quot; class=&quot;headerlink&quot; title=&quot;1. 什么是表的约束？&quot;&gt;&lt;/a&gt;1. 什么是表的约束？&lt;/h2&gt;&lt;p&gt;表的约束就是 &lt;strong&gt;限制字段中能</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      
+      
+      <comments>https://www.minbit.top/posts/37148.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>回调函数</title>
+      <link>https://www.minbit.top/posts/45103.html</link>
+      <guid>https://www.minbit.top/posts/45103.html</guid>
+      <pubDate>Wed, 29 Oct 2025 08:40:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;回调函数&quot;&gt;&lt;a href=&quot;#回调函数&quot; class=&quot;headerlink&quot; title=&quot;回调函数&quot;&gt;&lt;/a&gt;回调函数&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1cW421N7P2/?share_source=copy_web&amp;vd_source=872e5e3ccf44874c39edaf4</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/C/">C++</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/C/">C++</category>
+      
+      
+      <comments>https://www.minbit.top/posts/45103.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>C++ 语言层面上的多线程</title>
+      <link>https://www.minbit.top/posts/26657.html</link>
+      <guid>https://www.minbit.top/posts/26657.html</guid>
+      <pubDate>Sat, 25 Oct 2025 08:40:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;C-语言层面上的多线程&quot;&gt;&lt;a href=&quot;#C-语言层面上的多线程&quot; class=&quot;headerlink&quot; title=&quot;C++ 语言层面上的多线程&quot;&gt;&lt;/a&gt;C++ 语言层面上的多线程&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://wyqz.top/p/2668140628.html&quot;&gt;C++11 多线程 | 行码棋&lt;/a&gt;&lt;/p&gt;
+&lt;/blockq</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/C/">C++</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/C/">C++</category>
+      
+      <category domain="https://www.minbit.top/tags/%E7%BA%BF%E7%A8%8B/">线程</category>
+      
+      
+      <comments>https://www.minbit.top/posts/26657.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>057 高级 IO 之 epoll 详解与 CMake 入门</title>
+      <link>https://www.minbit.top/posts/4211.html</link>
+      <guid>https://www.minbit.top/posts/4211.html</guid>
+      <pubDate>Sun, 19 Oct 2025 04:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;epoll-和-CMake-的使用&quot;&gt;&lt;a href=&quot;#epoll-和-CMake-的使用&quot; class=&quot;headerlink&quot; title=&quot;epoll 和 CMake 的使用&quot;&gt;&lt;/a&gt;epoll 和 CMake 的使用&lt;/h1&gt;&lt;h2 id=&quot;1-epoll-简介&quot;&gt;&lt;a href=&quot;#1-epoll-简介&quot; class=&quot;headerlink&quot; title=&quot;1. ep</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
+      
+      <category domain="https://www.minbit.top/tags/IO/">IO</category>
+      
+      
+      <comments>https://www.minbit.top/posts/4211.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>05 数据类型</title>
+      <link>https://www.minbit.top/posts/57353.html</link>
+      <guid>https://www.minbit.top/posts/57353.html</guid>
+      <pubDate>Sat, 18 Oct 2025 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;数据类型&quot;&gt;&lt;a href=&quot;#数据类型&quot; class=&quot;headerlink&quot; title=&quot;数据类型&quot;&gt;&lt;/a&gt;数据类型&lt;/h1&gt;&lt;h2 id=&quot;1-常用数据类型一览&quot;&gt;&lt;a href=&quot;#1-常用数据类型一览&quot; class=&quot;headerlink&quot; title=&quot;1. 常用数据类型一览&quot;&gt;&lt;/a&gt;1. 常用数据类型一览&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      
+      
+      <comments>https://www.minbit.top/posts/57353.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>056 高级 IO</title>
+      <link>https://www.minbit.top/posts/7814.html</link>
+      <guid>https://www.minbit.top/posts/7814.html</guid>
+      <pubDate>Tue, 14 Oct 2025 04:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;高级-IO&quot;&gt;&lt;a href=&quot;#高级-IO&quot; class=&quot;headerlink&quot; title=&quot;高级 IO&quot;&gt;&lt;/a&gt;高级 IO&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/chenlong_cxy/article/details/126050039&quot;&gt;Linux 高级 IO | CSDN&lt;/a&gt;&lt;/p&gt;
+&lt;/block</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
+      
+      <category domain="https://www.minbit.top/tags/IO/">IO</category>
+      
+      
+      <comments>https://www.minbit.top/posts/7814.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>055 其他重要协议和技术</title>
+      <link>https://www.minbit.top/posts/48372.html</link>
+      <guid>https://www.minbit.top/posts/48372.html</guid>
+      <pubDate>Sun, 12 Oct 2025 04:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;其他重要协议和技术&quot;&gt;&lt;a href=&quot;#其他重要协议和技术&quot; class=&quot;headerlink&quot; title=&quot;其他重要协议和技术&quot;&gt;&lt;/a&gt;其他重要协议和技术&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/chenlong_cxy/article/details/124788487&quot;&gt;DNS 协议、ICMP 协议、NAT</description>
+        
+      
+      
+      
+      
+      <category domain="https://www.minbit.top/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
+      
+      <category domain="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/">网络</category>
+      
+      
+      <comments>https://www.minbit.top/posts/48372.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
