@@ -1,496 +1,413 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小米里的大麦</title>
-  
-  
-  <link href="https://www.minbit.top/atom.xml" rel="self"/>
-  
-  <link href="https://www.minbit.top/"/>
-  <updated>2026-02-01T02:10:00.000Z</updated>
-  <id>https://www.minbit.top/</id>
-  
   <author>
     <name>小米里的大麦</name>
-    
   </author>
-  
   <generator uri="https://hexo.io/">Hexo</generator>
-  
+  <id>https://www.minbit.top/</id>
+  <link href="https://www.minbit.top/" rel="alternate"/>
+  <link href="https://www.minbit.top/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 小米里的大麦</rights>
+  <subtitle>时间好像总会留下点什么，或许是一个人，或许是一个梦，或许……是一段有意义的经历~</subtitle>
+  <title>小米里的大麦</title>
+  <updated>2026-02-01T02:10:00.000Z</updated>
   <entry>
-    <title>一台服务器 / VPS 的玩法：1Panel 面板与 3x-ui 的完美融合</title>
-    <link href="https://www.minbit.top/posts/13131.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
+    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
+    <category term="网络" scheme="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/"/>
+    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
     <id>https://www.minbit.top/posts/13131.html</id>
+    <link href="https://www.minbit.top/posts/13131.html"/>
     <published>2026-01-31T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>一台服务器 / VPS  的玩法：1Panel 面板与 3x-ui 的完美融合</h1>
+<blockquote>
+<p>本期带来的是一台美国轻量规格-4H4G 30M 的云服务器，系统：Ubuntu 22.04。</p>
+</blockquote>
+<h2 id="1-准备工作">1. 准备工作</h2>
+<p>更新源保证安装最新版，再自动安装「下载、编辑、代码管理、解压缩、网络防护」全]]>
+    </summary>
+    <title>一台服务器 / VPS 的玩法：1Panel 面板与 3x-ui 的完美融合</title>
     <updated>2026-02-01T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;一台服务器-VPS-的玩法：1Panel-面板与-3x-ui-的完美融合&quot;&gt;&lt;a href=&quot;#一台服务器-VPS-的玩法：1Panel-面板与-3x-ui-的完美融合&quot; class=&quot;headerlink&quot; title=&quot;一台服务器 &amp;#x2F; VPS  的玩法：1Panel 面板与 3x-ui 的完美融合&quot;&gt;&lt;/a&gt;一台服务器 &amp;#x2F; VPS  的玩法：1Panel 面</summary>
-      
-    
-    
-    
-    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
-    
-    
-    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
-    
-    <category term="网络" scheme="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
-    
   </entry>
-  
   <entry>
-    <title>实用的 Obsidian 的插件</title>
-    <link href="https://www.minbit.top/posts/62197.html"/>
-    <id>https://www.minbit.top/posts/62197.html</id>
-    <published>2026-01-24T05:00:00.000Z</published>
-    <updated>2026-01-24T05:00:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;我使用的-Obsidian-插件&quot;&gt;&lt;a href=&quot;#我使用的-Obsidian-插件&quot; class=&quot;headerlink&quot; title=&quot;我使用的 Obsidian 插件&quot;&gt;&lt;/a&gt;我使用的 Obsidian 插件&lt;/h1&gt;&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Style Settings&lt;/strong&gt;：主题&amp;#x2F;插件 CSS 变量的“控制面板</summary>
-      
-    
-    
-    
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="Obsidian" scheme="https://www.minbit.top/categories/Obsidian/"/>
-    
-    
     <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
-    
     <category term="Obsidian" scheme="https://www.minbit.top/tags/Obsidian/"/>
-    
+    <id>https://www.minbit.top/posts/62197.html</id>
+    <link href="https://www.minbit.top/posts/62197.html"/>
+    <published>2026-01-24T05:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>我使用的 Obsidian 插件</h1>
+<blockquote>
+<ul>
+<li><strong>Style Settings</strong>：主题/插件 CSS 变量的“控制面板”，负责外观可调。</li>
+<li><strong>Contextual Typography</strong>：给预览模式的内容元素加标记，增强排版可控性。</li>
+<li><strong>Bann]]>
+    </summary>
+    <title>实用的 Obsidian 的插件</title>
+    <updated>2026-01-24T05:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>解决 Gemini “出了点问题”</title>
-    <link href="https://www.minbit.top/posts/50073.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
+    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
     <id>https://www.minbit.top/posts/50073.html</id>
+    <link href="https://www.minbit.top/posts/50073.html"/>
     <published>2026-01-14T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>解决 Gemini “出了点问题” 的小技巧：Google 搜索永不过时</h1>
+<p>我一直很喜欢 Google 搜索引擎——干净、无广告、直击核心内容。最近却在 Gemini 上遇到了麻烦：每次打开都提示“出了点问题”。之前我的谷歌账户也出现过类似情况，后来莫名其妙就自己好了，但是这次我发现不管我怎么操作都是“出了点问题”，我就很费解。</p>
+<p><img src="https:]]>
+    </summary>
+    <title>解决 Gemini “出了点问题”</title>
     <updated>2026-01-15T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;解决-Gemini-“出了点问题”-的小技巧：Google-搜索永不过时&quot;&gt;&lt;a href=&quot;#解决-Gemini-“出了点问题”-的小技巧：Google-搜索永不过时&quot; class=&quot;headerlink&quot; title=&quot;解决 Gemini “出了点问题” 的小技巧：Google 搜索永不过时&quot;&gt;&lt;/a&gt;解决 Gemini “出了点问题” 的小技巧：Google 搜索永不过时&lt;/</summary>
-      
-    
-    
-    
-    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
-    
-    
-    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
-    
   </entry>
-  
   <entry>
-    <title>2025 年度总结</title>
-    <link href="https://www.minbit.top/posts/22243.html"/>
-    <id>https://www.minbit.top/posts/22243.html</id>
-    <published>2025-12-31T16:00:00.000Z</published>
-    <updated>2025-12-31T16:00:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;2025-年度总结&quot;&gt;&lt;a href=&quot;#2025-年度总结&quot; class=&quot;headerlink&quot; title=&quot;2025 年度总结&quot;&gt;&lt;/a&gt;2025 年度总结&lt;/h1&gt;&lt;p&gt;这一年过的很快，快到什么程度呢，一句话总结：原来一个人忙起来，真是度年如日！来看看我这一年做了什么吧：&lt;/p&gt;
-&lt;h2 id=&quot;时间回溯-｜-年度进度条加载中&quot;&gt;&lt;a href=&quot;#时间回溯-｜-年度进度</summary>
-      
-    
-    
-    
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="历程" scheme="https://www.minbit.top/categories/%E5%8E%86%E7%A8%8B/"/>
-    
-    
     <category term="历程" scheme="https://www.minbit.top/tags/%E5%8E%86%E7%A8%8B/"/>
-    
+    <id>https://www.minbit.top/posts/22243.html</id>
+    <link href="https://www.minbit.top/posts/22243.html"/>
+    <published>2025-12-31T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>2025 年度总结</h1>
+<p>这一年过的很快，快到什么程度呢，一句话总结：原来一个人忙起来，真是度年如日！来看看我这一年做了什么吧：</p>
+<h2 id="时间回溯-｜-年度进度条加载中">时间回溯 ｜ 年度进度条加载中</h2>
+<h3 id="1-月-3-月">1 月 ~ 3 月</h3>
+<p>这三个月，算是我 2025 年的“缓冲期”。简单生活，简单学习，没有产出也没有成果]]>
+    </summary>
+    <title>2025 年度总结</title>
+    <updated>2025-12-31T16:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>08 表的增删改查下</title>
-    <link href="https://www.minbit.top/posts/39993.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
+    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
     <id>https://www.minbit.top/posts/39993.html</id>
+    <link href="https://www.minbit.top/posts/39993.html"/>
     <published>2025-12-12T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>表的增删改查下</h1>
+<h2 id="1-update（修改）">1. update（修改）</h2>
+<h3 id="1-语法">1. 语法</h3>
+<p>UPDATE 用于修改已有数据，必须配合 WHERE 精确更新；并发场景下要用原子更新和事务，避免先查再改。</p>
+<figure class="highlight sql"><table><tr><td class="gut]]>
+    </summary>
+    <title>08 表的增删改查下</title>
     <updated>2025-12-16T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;表的增删改查下&quot;&gt;&lt;a href=&quot;#表的增删改查下&quot; class=&quot;headerlink&quot; title=&quot;表的增删改查下&quot;&gt;&lt;/a&gt;表的增删改查下&lt;/h1&gt;&lt;h2 id=&quot;1-update（修改）&quot;&gt;&lt;a href=&quot;#1-update（修改）&quot; class=&quot;headerlink&quot; title=&quot;1. update（修改）&quot;&gt;&lt;/a&gt;1. update（修改）&lt;/h2&gt;&lt;h3 </summary>
-      
-    
-    
-    
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    
-    
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    
   </entry>
-  
   <entry>
-    <title>计算机的颜色表示</title>
-    <link href="https://www.minbit.top/posts/28259.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
+    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
     <id>https://www.minbit.top/posts/28259.html</id>
+    <link href="https://www.minbit.top/posts/28259.html"/>
     <published>2025-12-09T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>计算机的颜色表示</h1>
+<h2 id="1-计算机为什么用-RGB-表示颜色？">1. 计算机为什么用 RGB 表示颜色？</h2>
+<h3 id="1-人眼如何感知颜色">1. 人眼如何感知颜色</h3>
+<p>计算机中颜色的表示主要基于 <strong>人眼感知颜色的方式</strong> 以及 <strong>硬件显示原理</strong>。人眼的视网膜上有三类锥体细胞，分别对三]]>
+    </summary>
+    <title>计算机的颜色表示</title>
     <updated>2025-12-10T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;计算机的颜色表示&quot;&gt;&lt;a href=&quot;#计算机的颜色表示&quot; class=&quot;headerlink&quot; title=&quot;计算机的颜色表示&quot;&gt;&lt;/a&gt;计算机的颜色表示&lt;/h1&gt;&lt;h2 id=&quot;1-计算机为什么用-RGB-表示颜色？&quot;&gt;&lt;a href=&quot;#1-计算机为什么用-RGB-表示颜色？&quot; class=&quot;headerlink&quot; title=&quot;1. 计算机为什么用 RGB 表示颜色？&quot;&gt;&lt;</summary>
-      
-    
-    
-    
-    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
-    
-    
-    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
-    
   </entry>
-  
   <entry>
-    <title>解决代码文件中的乱码问题</title>
-    <link href="https://www.minbit.top/posts/43509.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
+    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
     <id>https://www.minbit.top/posts/43509.html</id>
+    <link href="https://www.minbit.top/posts/43509.html"/>
     <published>2025-12-07T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>解决代码文件中的乱码问题</h1>
+<p>你有没有遇到过：代码在 Visual Studio 中完美正常，在 VS Code 一打开却全是乱码？明明都是微软出品，却总在编码上“闹别扭”。别急，这个问题本质上是字符编码不一致，下面来详细说说。</p>
+<h3 id="1-乱码的本质：编码不匹配">1. 乱码的本质：编码不匹配</h3>
+<ul>
+<li><strong>Visual Stud]]>
+    </summary>
+    <title>解决代码文件中的乱码问题</title>
     <updated>2026-12-08T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;解决代码文件中的乱码问题&quot;&gt;&lt;a href=&quot;#解决代码文件中的乱码问题&quot; class=&quot;headerlink&quot; title=&quot;解决代码文件中的乱码问题&quot;&gt;&lt;/a&gt;解决代码文件中的乱码问题&lt;/h1&gt;&lt;p&gt;你有没有遇到过：代码在 Visual Studio 中完美正常，在 VS Code 一打开却全是乱码？明明都是微软出品，却总在编码上“闹别扭”。别急，这个问题本质上是字符编码不一致</summary>
-      
-    
-    
-    
-    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
-    
-    
-    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
-    
   </entry>
-  
   <entry>
-    <title>Ubuntu 22.04 中安装 thefuck 与 tldr 工具</title>
-    <link href="https://www.minbit.top/posts/38170.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
+    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
     <id>https://www.minbit.top/posts/38170.html</id>
+    <link href="https://www.minbit.top/posts/38170.html"/>
     <published>2025-11-22T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>Ubuntu 22.04 中安装 thefuck 与 tldr 工具</h1>
+<p>作为一名经常使用终端的开发者，拥有高效的命令行工具能极大提升工作效率。本文将详细介绍如何在 Ubuntu 22.04 系统上安装和配置两款非常实用的终端工具：<code>thefuck</code>（命令纠错工具）和 <code>tldr</code>（简洁帮助文档工具），并分享安装过程中遇到的问题及解决]]>
+    </summary>
+    <title>Ubuntu 22.04 中安装 thefuck 与 tldr 工具</title>
     <updated>2025-11-22T04:00:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Ubuntu-22-04-中安装-thefuck-与-tldr-工具&quot;&gt;&lt;a href=&quot;#Ubuntu-22-04-中安装-thefuck-与-tldr-工具&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu 22.04 中安装 thefuck 与 tldr 工具&quot;&gt;&lt;/a&gt;Ubuntu 22.04 中安装 thefuck 与 tldr 工具&lt;/h1&gt;&lt;p&gt;作为</summary>
-      
-    
-    
-    
-    <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
-    
-    
-    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
-    
   </entry>
-  
   <entry>
-    <title>CodeX CLI 的使用备忘</title>
-    <link href="https://www.minbit.top/posts/31539.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="AI" scheme="https://www.minbit.top/categories/AI/"/>
+    <category term="AI" scheme="https://www.minbit.top/tags/AI/"/>
+    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
     <id>https://www.minbit.top/posts/31539.html</id>
+    <link href="https://www.minbit.top/posts/31539.html"/>
     <published>2025-11-19T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>CodeX CLI 的使用备忘</h1>
+<p>想要使用 CodeX 得要是 ChatGPT 的 plus 及以上用户才能使用，但是网上也存在接入国产模型的教程，下面是我在使用 CodeX CLI 的一些备忘，非教程：</p>
+<blockquote>
+<p><a href="%5BCodex%5D(https://chatgpt.com/codex)">CodeX 官网</a></p>]]>
+    </summary>
+    <title>CodeX CLI 的使用备忘</title>
     <updated>2025-11-25T04:00:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;CodeX-CLI-的使用备忘&quot;&gt;&lt;a href=&quot;#CodeX-CLI-的使用备忘&quot; class=&quot;headerlink&quot; title=&quot;CodeX CLI 的使用备忘&quot;&gt;&lt;/a&gt;CodeX CLI 的使用备忘&lt;/h1&gt;&lt;p&gt;想要使用 CodeX 得要是 ChatGPT 的 plus 及以上用户才能使用，但是网上也存在接入国产模型的教程，下面是我在使用 CodeX CLI 的一些</summary>
-      
-    
-    
-    
-    <category term="AI" scheme="https://www.minbit.top/categories/AI/"/>
-    
-    
-    <category term="AI" scheme="https://www.minbit.top/tags/AI/"/>
-    
-    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
-    
   </entry>
-  
   <entry>
-    <title>VS Code 中的 Python 环境</title>
-    <link href="https://www.minbit.top/posts/50161.html"/>
-    <id>https://www.minbit.top/posts/50161.html</id>
-    <published>2025-11-14T16:00:00.000Z</published>
-    <updated>2025-11-17T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;VS-Code-中的-Python-环境&quot;&gt;&lt;a href=&quot;#VS-Code-中的-Python-环境&quot; class=&quot;headerlink&quot; title=&quot;VS Code 中的 Python 环境&quot;&gt;&lt;/a&gt;VS Code 中的 Python 环境&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;起因是闲暇之余用到了 python，打开 pycharm 一看，好家伙居然不给我用，需要进</summary>
-      
-    
-    
-    
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
-    
-    
     <category term="VS Code" scheme="https://www.minbit.top/tags/VS-Code/"/>
-    
     <category term="Python" scheme="https://www.minbit.top/tags/Python/"/>
-    
+    <id>https://www.minbit.top/posts/50161.html</id>
+    <link href="https://www.minbit.top/posts/50161.html"/>
+    <published>2025-11-14T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>VS Code 中的 Python 环境</h1>
+<blockquote>
+<p>起因是闲暇之余用到了 python，打开 pycharm 一看，好家伙居然不给我用，需要进行激活，我也知道网上存在大量的激活教程什么的，于是就去了，结果这些个博主非要关注、私信才给激活码/破解包，还放在龟速网盘中，真是气不打一处来。另一方面 pycharm 体积不能说很大吧，就是感觉体积偏大，弄一堆冗杂的插]]>
+    </summary>
+    <title>VS Code 中的 Python 环境</title>
+    <updated>2025-11-17T02:10:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>浏览器小技巧</title>
-    <link href="https://www.minbit.top/posts/46513.html"/>
-    <id>https://www.minbit.top/posts/46513.html</id>
-    <published>2025-11-11T16:00:00.000Z</published>
-    <updated>2025-11-12T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;浏览器小技巧&quot;&gt;&lt;a href=&quot;#浏览器小技巧&quot; class=&quot;headerlink&quot; title=&quot;浏览器小技巧&quot;&gt;&lt;/a&gt;浏览器小技巧&lt;/h1&gt;&lt;h2 id=&quot;1-Chrome-Edge-开启高速多线程下载&quot;&gt;&lt;a href=&quot;#1-Chrome-Edge-开启高速多线程下载&quot; class=&quot;headerlink&quot; title=&quot;1. Chrome &amp;#x2F; Edge 开</summary>
-      
-    
-    
-    
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
-    
-    
     <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
-    
+    <id>https://www.minbit.top/posts/46513.html</id>
+    <link href="https://www.minbit.top/posts/46513.html"/>
+    <published>2025-11-11T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>浏览器小技巧</h1>
+<h2 id="1-Chrome-Edge-开启高速多线程下载">1. Chrome / Edge 开启高速多线程下载</h2>
+<p>地址栏输入：</p>
+<ul>
+<li><strong>Chrome</strong>: chrome://flags/#enable-parallel-downloading</li>
+<li><strong>Edge</stro]]>
+    </summary>
+    <title>浏览器小技巧</title>
+    <updated>2025-11-12T02:10:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>免费白嫖 ChatGPT Go 套餐</title>
-    <link href="https://www.minbit.top/posts/41191.html"/>
-    <id>https://www.minbit.top/posts/41191.html</id>
-    <published>2025-11-04T16:00:00.000Z</published>
-    <updated>2025-11-15T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;免费白嫖-ChatGPT-Go-套餐-12-个月（一年）&quot;&gt;&lt;a href=&quot;#免费白嫖-ChatGPT-Go-套餐-12-个月（一年）&quot; class=&quot;headerlink&quot; title=&quot;免费白嫖 ChatGPT Go 套餐 12 个月（一年）&quot;&gt;&lt;/a&gt;免费白嫖 ChatGPT Go 套餐 12 个月（一年）&lt;/h1&gt;&lt;h2 id=&quot;1-前提说明&quot;&gt;&lt;a href=&quot;#1-前</summary>
-      
-    
-    
-    
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="AI" scheme="https://www.minbit.top/categories/AI/"/>
-    
-    
     <category term="AI" scheme="https://www.minbit.top/tags/AI/"/>
-    
     <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
-    
+    <id>https://www.minbit.top/posts/41191.html</id>
+    <link href="https://www.minbit.top/posts/41191.html"/>
+    <published>2025-11-04T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>免费白嫖 ChatGPT Go 套餐 12 个月（一年）</h1>
+<h2 id="1-前提说明">1. 前提说明</h2>
+<blockquote>
+<p><strong>官方说明：</strong></p>
+<p><a href="https://help.openai.com/zh-hans-cn/articles/11989085-what-is-chatgpt-go">什么是 C]]>
+    </summary>
+    <title>免费白嫖 ChatGPT Go 套餐</title>
+    <updated>2025-11-15T02:10:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>07 表的增删改查上</title>
-    <link href="https://www.minbit.top/posts/60665.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
+    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
     <id>https://www.minbit.top/posts/60665.html</id>
+    <link href="https://www.minbit.top/posts/60665.html"/>
     <published>2025-11-02T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>表的增删改查上</h1>
+<h2 id="1-Create（创建）">1. Create（创建）</h2>
+<h3 id="1-单行插入-全列插入（最基础）">1. 单行插入 + 全列插入（最基础）</h3>
+<h4 id="1-语法格式">1. 语法格式</h4>
+<figure class="highlight sql"><table><tr><td class="gutter"><p]]>
+    </summary>
+    <title>07 表的增删改查上</title>
     <updated>2025-12-16T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;表的增删改查上&quot;&gt;&lt;a href=&quot;#表的增删改查上&quot; class=&quot;headerlink&quot; title=&quot;表的增删改查上&quot;&gt;&lt;/a&gt;表的增删改查上&lt;/h1&gt;&lt;h2 id=&quot;1-Create（创建）&quot;&gt;&lt;a href=&quot;#1-Create（创建）&quot; class=&quot;headerlink&quot; title=&quot;1. Create（创建）&quot;&gt;&lt;/a&gt;1. Create（创建）&lt;/h2&gt;&lt;h3 </summary>
-      
-    
-    
-    
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    
-    
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    
   </entry>
-  
   <entry>
-    <title>06 表的约束</title>
-    <link href="https://www.minbit.top/posts/37148.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
+    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
     <id>https://www.minbit.top/posts/37148.html</id>
+    <link href="https://www.minbit.top/posts/37148.html"/>
     <published>2025-11-01T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>表的约束</h1>
+<h2 id="1-什么是表的约束？">1. 什么是表的约束？</h2>
+<p>表的约束就是 <strong>限制字段中能存什么数据、不能存什么数据</strong> 的规则，目的：<strong>防止脏数据进入数据库</strong>。举例理解：</p>
+<ul>
+<li>不允许“性别”列里填手机号。</li>
+<li>不允许“年龄”列为空或写成负数。</li>
+<l]]>
+    </summary>
+    <title>06 表的约束</title>
     <updated>2025-11-03T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;表的约束&quot;&gt;&lt;a href=&quot;#表的约束&quot; class=&quot;headerlink&quot; title=&quot;表的约束&quot;&gt;&lt;/a&gt;表的约束&lt;/h1&gt;&lt;h2 id=&quot;1-什么是表的约束？&quot;&gt;&lt;a href=&quot;#1-什么是表的约束？&quot; class=&quot;headerlink&quot; title=&quot;1. 什么是表的约束？&quot;&gt;&lt;/a&gt;1. 什么是表的约束？&lt;/h2&gt;&lt;p&gt;表的约束就是 &lt;strong&gt;限制字段中能</summary>
-      
-    
-    
-    
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    
-    
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    
   </entry>
-  
   <entry>
-    <title>回调函数</title>
-    <link href="https://www.minbit.top/posts/45103.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="C++" scheme="https://www.minbit.top/categories/C/"/>
+    <category term="C++" scheme="https://www.minbit.top/tags/C/"/>
     <id>https://www.minbit.top/posts/45103.html</id>
+    <link href="https://www.minbit.top/posts/45103.html"/>
     <published>2025-10-29T08:40:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>回调函数</h1>
+<blockquote>
+<p><a href="https://www.bilibili.com/video/BV1cW421N7P2/?share_source=copy_web&amp;vd_source=872e5e3ccf44874c39edaf42e30ab0de">3 分钟彻底理解回调函数 | B 站</a></p>
+<p><a href="https:/]]>
+    </summary>
+    <title>回调函数</title>
     <updated>2025-10-29T08:40:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;回调函数&quot;&gt;&lt;a href=&quot;#回调函数&quot; class=&quot;headerlink&quot; title=&quot;回调函数&quot;&gt;&lt;/a&gt;回调函数&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1cW421N7P2/?share_source=copy_web&amp;vd_source=872e5e3ccf44874c39edaf4</summary>
-      
-    
-    
-    
-    <category term="C++" scheme="https://www.minbit.top/categories/C/"/>
-    
-    
-    <category term="C++" scheme="https://www.minbit.top/tags/C/"/>
-    
   </entry>
-  
   <entry>
-    <title>C++ 语言层面上的多线程</title>
-    <link href="https://www.minbit.top/posts/26657.html"/>
-    <id>https://www.minbit.top/posts/26657.html</id>
-    <published>2025-10-25T08:40:00.000Z</published>
-    <updated>2025-11-13T08:40:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;C-语言层面上的多线程&quot;&gt;&lt;a href=&quot;#C-语言层面上的多线程&quot; class=&quot;headerlink&quot; title=&quot;C++ 语言层面上的多线程&quot;&gt;&lt;/a&gt;C++ 语言层面上的多线程&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://wyqz.top/p/2668140628.html&quot;&gt;C++11 多线程 | 行码棋&lt;/a&gt;&lt;/p&gt;
-&lt;/blockq</summary>
-      
-    
-    
-    
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="C++" scheme="https://www.minbit.top/categories/C/"/>
-    
-    
     <category term="C++" scheme="https://www.minbit.top/tags/C/"/>
-    
     <category term="线程" scheme="https://www.minbit.top/tags/%E7%BA%BF%E7%A8%8B/"/>
-    
+    <id>https://www.minbit.top/posts/26657.html</id>
+    <link href="https://www.minbit.top/posts/26657.html"/>
+    <published>2025-10-25T08:40:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>C++ 语言层面上的多线程</h1>
+<blockquote>
+<p><a href="https://wyqz.top/p/2668140628.html">C++11 多线程 | 行码棋</a></p>
+</blockquote>
+<h2 id="1-C-11-的线程模型-vs-pthread-的对应关系">1. C++11 的线程模型 vs pthread 的对应关系</h2>
+<t]]>
+    </summary>
+    <title>C++ 语言层面上的多线程</title>
+    <updated>2025-11-13T08:40:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>057 高级 IO 之 epoll 详解与 CMake 入门</title>
-    <link href="https://www.minbit.top/posts/4211.html"/>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
+    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
+    <category term="IO" scheme="https://www.minbit.top/tags/IO/"/>
     <id>https://www.minbit.top/posts/4211.html</id>
+    <link href="https://www.minbit.top/posts/4211.html"/>
     <published>2025-10-19T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>epoll 和 CMake 的使用</h1>
+<h2 id="1-epoll-简介">1. epoll 简介</h2>
+<p>epoll 是 Linux 系统提供的一种 IO 多路复用机制，用来替代传统的 select 和 poll。它的核心优势是：</p>
+<ul>
+<li><strong>高效</strong>：性能不会随着监听的文件描述符数量增加而下降。</li>
+<li><stro]]>
+    </summary>
+    <title>057 高级 IO 之 epoll 详解与 CMake 入门</title>
     <updated>2025-10-29T04:00:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;epoll-和-CMake-的使用&quot;&gt;&lt;a href=&quot;#epoll-和-CMake-的使用&quot; class=&quot;headerlink&quot; title=&quot;epoll 和 CMake 的使用&quot;&gt;&lt;/a&gt;epoll 和 CMake 的使用&lt;/h1&gt;&lt;h2 id=&quot;1-epoll-简介&quot;&gt;&lt;a href=&quot;#1-epoll-简介&quot; class=&quot;headerlink&quot; title=&quot;1. ep</summary>
-      
-    
-    
-    
-    <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
-    
-    
-    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
-    
-    <category term="IO" scheme="https://www.minbit.top/tags/IO/"/>
-    
   </entry>
-  
   <entry>
-    <title>05 数据类型</title>
-    <link href="https://www.minbit.top/posts/57353.html"/>
-    <id>https://www.minbit.top/posts/57353.html</id>
-    <published>2025-10-18T16:00:00.000Z</published>
-    <updated>2025-11-02T02:10:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;数据类型&quot;&gt;&lt;a href=&quot;#数据类型&quot; class=&quot;headerlink&quot; title=&quot;数据类型&quot;&gt;&lt;/a&gt;数据类型&lt;/h1&gt;&lt;h2 id=&quot;1-常用数据类型一览&quot;&gt;&lt;a href=&quot;#1-常用数据类型一览&quot; class=&quot;headerlink&quot; title=&quot;1. 常用数据类型一览&quot;&gt;&lt;/a&gt;1. 常用数据类型一览&lt;/h2&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th</summary>
-      
-    
-    
-    
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    
-    
     <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    
+    <id>https://www.minbit.top/posts/57353.html</id>
+    <link href="https://www.minbit.top/posts/57353.html"/>
+    <published>2025-10-18T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>数据类型</h1>
+<h2 id="1-常用数据类型一览">1. 常用数据类型一览</h2>
+<table>
+<thead>
+<tr>
+<th><strong>分类</strong></th>
+<th><strong>数据类型</strong></th>
+<th><strong>说明</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong]]>
+    </summary>
+    <title>05 数据类型</title>
+    <updated>2025-11-02T02:10:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>056 高级 IO</title>
-    <link href="https://www.minbit.top/posts/7814.html"/>
-    <id>https://www.minbit.top/posts/7814.html</id>
-    <published>2025-10-14T04:00:00.000Z</published>
-    <updated>2025-10-22T04:00:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;高级-IO&quot;&gt;&lt;a href=&quot;#高级-IO&quot; class=&quot;headerlink&quot; title=&quot;高级 IO&quot;&gt;&lt;/a&gt;高级 IO&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/chenlong_cxy/article/details/126050039&quot;&gt;Linux 高级 IO | CSDN&lt;/a&gt;&lt;/p&gt;
-&lt;/block</summary>
-      
-    
-    
-    
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
-    
-    
     <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
-    
     <category term="IO" scheme="https://www.minbit.top/tags/IO/"/>
-    
+    <id>https://www.minbit.top/posts/7814.html</id>
+    <link href="https://www.minbit.top/posts/7814.html"/>
+    <published>2025-10-14T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>高级 IO</h1>
+<blockquote>
+<p><a href="https://blog.csdn.net/chenlong_cxy/article/details/126050039">Linux 高级 IO | CSDN</a></p>
+</blockquote>
+<h2 id="1-正确认识-IO">1. 正确认识 IO</h2>
+<h3 id="1-IO-的本质">1. I]]>
+    </summary>
+    <title>056 高级 IO</title>
+    <updated>2025-10-22T04:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>055 其他重要协议和技术</title>
-    <link href="https://www.minbit.top/posts/48372.html"/>
-    <id>https://www.minbit.top/posts/48372.html</id>
-    <published>2025-10-12T04:00:00.000Z</published>
-    <updated>2025-10-12T04:00:00.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;其他重要协议和技术&quot;&gt;&lt;a href=&quot;#其他重要协议和技术&quot; class=&quot;headerlink&quot; title=&quot;其他重要协议和技术&quot;&gt;&lt;/a&gt;其他重要协议和技术&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/chenlong_cxy/article/details/124788487&quot;&gt;DNS 协议、ICMP 协议、NAT</summary>
-      
-    
-    
-    
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
-    
-    
     <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
-    
     <category term="网络" scheme="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/"/>
-    
+    <id>https://www.minbit.top/posts/48372.html</id>
+    <link href="https://www.minbit.top/posts/48372.html"/>
+    <published>2025-10-12T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>其他重要协议和技术</h1>
+<blockquote>
+<p><a href="https://blog.csdn.net/chenlong_cxy/article/details/124788487">DNS 协议、ICMP 协议、NAT 技术 | CSDN</a></p>
+</blockquote>
+<h2 id="1-DNS">1. DNS</h2>
+<h3 id="1-DNS-背景]]>
+    </summary>
+    <title>055 其他重要协议和技术</title>
+    <updated>2025-10-12T04:00:00.000Z</updated>
   </entry>
-  
 </feed>
