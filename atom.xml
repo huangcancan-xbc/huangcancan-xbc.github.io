@@ -95,6 +95,44 @@
     <author>
       <name>小米里的大麦</name>
     </author>
+    <category term="C++" scheme="https://www.minbit.top/categories/C/"/>
+    <category term="C++" scheme="https://www.minbit.top/tags/C/"/>
+    <id>https://www.minbit.top/posts/14353.html</id>
+    <link href="https://www.minbit.top/posts/14353.html"/>
+    <published>2025-12-28T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>C++ 移动语义</h1>
+<h2 id="1-左值-vs-右值">1. 左值 vs 右值</h2>
+<h3 id="1-从一段代码开始">1. 从一段代码开始</h3>
+<p>我们从最底层开始，看这几行代码：</p>
+<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1<]]>
+    </summary>
+    <title>C++ 移动语义</title>
+    <updated>2025-12-28T02:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="AI" scheme="https://www.minbit.top/categories/AI/"/>
+    <category term="AI" scheme="https://www.minbit.top/tags/AI/"/>
+    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
+    <id>https://www.minbit.top/posts/10402.html</id>
+    <link href="https://www.minbit.top/posts/10402.html"/>
+    <published>2025-12-25T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>Windows 上安装配置 OpenCode CLI + Oh-My-OpenCode 入门指南</h1>
+<h2 id="1-介绍">1. 介绍</h2>
+<p><strong>OpenCode CLI</strong> - 开源的 AI 编程助手命令行工具，类似 Cursor/Claude Code，但完全免费开源，支持多模型切换。</p>
+<p><strong>Oh-My-OpenC]]>
+    </summary>
+    <title>OpenCode CLI + Oh-My-OpenCode 入门指南</title>
+    <updated>2026-02-15T04:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
     <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
     <id>https://www.minbit.top/posts/39993.html</id>
@@ -146,6 +184,47 @@
     </summary>
     <title>解决代码文件中的乱码问题</title>
     <updated>2026-12-08T02:10:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="C++" scheme="https://www.minbit.top/categories/C/"/>
+    <category term="C++" scheme="https://www.minbit.top/tags/C/"/>
+    <category term="IO" scheme="https://www.minbit.top/tags/IO/"/>
+    <id>https://www.minbit.top/posts/44084.html</id>
+    <link href="https://www.minbit.top/posts/44084.html"/>
+    <published>2025-12-06T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>C++ IO 指南</h1>
+<h2 id="1-文件流-ifstream-ofstream-fstream（核心）">1. 文件流 <code>ifstream / ofstream / fstream</code>（核心）</h2>
+<h3 id="1-一句话记住三个类">1. 一句话记住三个类</h3>
+<table>
+<thead>
+<tr>
+<th>类名</th>
+<th>作用<]]>
+    </summary>
+    <title>C++ IO 指南</title>
+    <updated>2025-12-06T02:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="C++" scheme="https://www.minbit.top/categories/C/"/>
+    <category term="C++" scheme="https://www.minbit.top/tags/C/"/>
+    <id>https://www.minbit.top/posts/54233.html</id>
+    <link href="https://www.minbit.top/posts/54233.html"/>
+    <published>2025-11-30T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>C++异常处理</h1>
+<h2 id="1-throw-try-catch-基本语法">1. throw / try / catch 基本语法</h2>
+<h3 id="1-头文件">1. 头文件</h3>
+<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span]]>
+    </summary>
+    <title>C++ 异常处理</title>
+    <updated>2025-11-30T02:00:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -319,95 +398,5 @@
     </summary>
     <title>C++ 语言层面上的多线程</title>
     <updated>2025-11-13T08:40:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
-    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
-    <category term="IO" scheme="https://www.minbit.top/tags/IO/"/>
-    <id>https://www.minbit.top/posts/4211.html</id>
-    <link href="https://www.minbit.top/posts/4211.html"/>
-    <published>2025-10-19T04:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>epoll 和 CMake 的使用</h1>
-<h2 id="1-epoll-简介">1. epoll 简介</h2>
-<p>epoll 是 Linux 系统提供的一种 IO 多路复用机制，用来替代传统的 select 和 poll。它的核心优势是：</p>
-<ul>
-<li><strong>高效</strong>：性能不会随着监听的文件描述符数量增加而下降。</li>
-<li><stro]]>
-    </summary>
-    <title>057 高级 IO 之 epoll 详解与 CMake 入门</title>
-    <updated>2025-10-29T04:00:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    <id>https://www.minbit.top/posts/57353.html</id>
-    <link href="https://www.minbit.top/posts/57353.html"/>
-    <published>2025-10-18T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>数据类型</h1>
-<h2 id="1-常用数据类型一览">1. 常用数据类型一览</h2>
-<table>
-<thead>
-<tr>
-<th><strong>分类</strong></th>
-<th><strong>数据类型</strong></th>
-<th><strong>说明</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong]]>
-    </summary>
-    <title>05 数据类型</title>
-    <updated>2025-11-02T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
-    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
-    <category term="IO" scheme="https://www.minbit.top/tags/IO/"/>
-    <id>https://www.minbit.top/posts/7814.html</id>
-    <link href="https://www.minbit.top/posts/7814.html"/>
-    <published>2025-10-14T04:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>高级 IO</h1>
-<blockquote>
-<p><a href="https://blog.csdn.net/chenlong_cxy/article/details/126050039">Linux 高级 IO | CSDN</a></p>
-</blockquote>
-<h2 id="1-正确认识-IO">1. 正确认识 IO</h2>
-<h3 id="1-IO-的本质">1. I]]>
-    </summary>
-    <title>056 高级 IO</title>
-    <updated>2025-10-22T04:00:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
-    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
-    <category term="网络" scheme="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/"/>
-    <id>https://www.minbit.top/posts/48372.html</id>
-    <link href="https://www.minbit.top/posts/48372.html"/>
-    <published>2025-10-12T04:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>其他重要协议和技术</h1>
-<blockquote>
-<p><a href="https://blog.csdn.net/chenlong_cxy/article/details/124788487">DNS 协议、ICMP 协议、NAT 技术 | CSDN</a></p>
-</blockquote>
-<h2 id="1-DNS">1. DNS</h2>
-<h3 id="1-DNS-背景]]>
-    </summary>
-    <title>055 其他重要协议和技术</title>
-    <updated>2025-10-12T04:00:00.000Z</updated>
   </entry>
 </feed>

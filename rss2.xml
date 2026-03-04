@@ -74,6 +74,36 @@
       <pubDate>Wed, 31 Dec 2025 16:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>C++ 移动语义</title>
+      <link>https://www.minbit.top/posts/14353.html</link>
+      <description>
+        <![CDATA[<h1>C++ 移动语义</h1>
+<h2 id="1-左值-vs-右值">1. 左值 vs 右值</h2>
+<h3 id="1-从一段代码开始">1. 从一段代码开始</h3>
+<p>我们从最底层开始，看这几行代码：</p>
+<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1<]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/C/">C++</category>
+      <category domain="https://www.minbit.top/tags/C/">C++</category>
+      <pubDate>Sun, 28 Dec 2025 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenCode CLI + Oh-My-OpenCode 入门指南</title>
+      <link>https://www.minbit.top/posts/10402.html</link>
+      <description>
+        <![CDATA[<h1>Windows 上安装配置 OpenCode CLI + Oh-My-OpenCode 入门指南</h1>
+<h2 id="1-介绍">1. 介绍</h2>
+<p><strong>OpenCode CLI</strong> - 开源的 AI 编程助手命令行工具，类似 Cursor/Claude Code，但完全免费开源，支持多模型切换。</p>
+<p><strong>Oh-My-OpenC]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/AI/">AI</category>
+      <category domain="https://www.minbit.top/tags/AI/">AI</category>
+      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+      <pubDate>Thu, 25 Dec 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>08 表的增删改查下</title>
       <link>https://www.minbit.top/posts/39993.html</link>
       <description>
@@ -116,6 +146,39 @@
       <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
       <category domain="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/">涨知识</category>
       <pubDate>Sun, 07 Dec 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ IO 指南</title>
+      <link>https://www.minbit.top/posts/44084.html</link>
+      <description>
+        <![CDATA[<h1>C++ IO 指南</h1>
+<h2 id="1-文件流-ifstream-ofstream-fstream（核心）">1. 文件流 <code>ifstream / ofstream / fstream</code>（核心）</h2>
+<h3 id="1-一句话记住三个类">1. 一句话记住三个类</h3>
+<table>
+<thead>
+<tr>
+<th>类名</th>
+<th>作用<]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/C/">C++</category>
+      <category domain="https://www.minbit.top/tags/C/">C++</category>
+      <category domain="https://www.minbit.top/tags/IO/">IO</category>
+      <pubDate>Sat, 06 Dec 2025 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 异常处理</title>
+      <link>https://www.minbit.top/posts/54233.html</link>
+      <description>
+        <![CDATA[<h1>C++异常处理</h1>
+<h2 id="1-throw-try-catch-基本语法">1. throw / try / catch 基本语法</h2>
+<h3 id="1-头文件">1. 头文件</h3>
+<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/C/">C++</category>
+      <category domain="https://www.minbit.top/tags/C/">C++</category>
+      <pubDate>Sun, 30 Nov 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Ubuntu 22.04 中安装 thefuck 与 tldr 工具</title>
@@ -253,80 +316,6 @@
       <category domain="https://www.minbit.top/tags/C/">C++</category>
       <category domain="https://www.minbit.top/tags/%E7%BA%BF%E7%A8%8B/">线程</category>
       <pubDate>Sat, 25 Oct 2025 08:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>057 高级 IO 之 epoll 详解与 CMake 入门</title>
-      <link>https://www.minbit.top/posts/4211.html</link>
-      <description>
-        <![CDATA[<h1>epoll 和 CMake 的使用</h1>
-<h2 id="1-epoll-简介">1. epoll 简介</h2>
-<p>epoll 是 Linux 系统提供的一种 IO 多路复用机制，用来替代传统的 select 和 poll。它的核心优势是：</p>
-<ul>
-<li><strong>高效</strong>：性能不会随着监听的文件描述符数量增加而下降。</li>
-<li><stro]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/Linux/">Linux</category>
-      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
-      <category domain="https://www.minbit.top/tags/IO/">IO</category>
-      <pubDate>Sun, 19 Oct 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>05 数据类型</title>
-      <link>https://www.minbit.top/posts/57353.html</link>
-      <description>
-        <![CDATA[<h1>数据类型</h1>
-<h2 id="1-常用数据类型一览">1. 常用数据类型一览</h2>
-<table>
-<thead>
-<tr>
-<th><strong>分类</strong></th>
-<th><strong>数据类型</strong></th>
-<th><strong>说明</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
-      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
-      <pubDate>Sat, 18 Oct 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>056 高级 IO</title>
-      <link>https://www.minbit.top/posts/7814.html</link>
-      <description>
-        <![CDATA[<h1>高级 IO</h1>
-<blockquote>
-<p><a href="https://blog.csdn.net/chenlong_cxy/article/details/126050039">Linux 高级 IO | CSDN</a></p>
-</blockquote>
-<h2 id="1-正确认识-IO">1. 正确认识 IO</h2>
-<h3 id="1-IO-的本质">1. I]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/Linux/">Linux</category>
-      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
-      <category domain="https://www.minbit.top/tags/IO/">IO</category>
-      <pubDate>Tue, 14 Oct 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>055 其他重要协议和技术</title>
-      <link>https://www.minbit.top/posts/48372.html</link>
-      <description>
-        <![CDATA[<h1>其他重要协议和技术</h1>
-<blockquote>
-<p><a href="https://blog.csdn.net/chenlong_cxy/article/details/124788487">DNS 协议、ICMP 协议、NAT 技术 | CSDN</a></p>
-</blockquote>
-<h2 id="1-DNS">1. DNS</h2>
-<h3 id="1-DNS-背景]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/Linux/">Linux</category>
-      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
-      <category domain="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/">网络</category>
-      <pubDate>Sun, 12 Oct 2025 04:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
