@@ -59,6 +59,21 @@
       <pubDate>Wed, 14 Jan 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>19 C/C++ 操作 MySQL</title>
+      <link>https://www.minbit.top/posts/29133.html</link>
+      <description>
+        <![CDATA[<h1>C/C++ 操作 MySQL</h1>
+<h2 id="1-准备工作">1. 准备工作</h2>
+<h3 id="1-环境准备">1. 环境准备</h3>
+<p><strong>安装 MySQL 的 C 语言客户端开发库（包含头文件和链接库）：</strong></p>
+<figure class="highlight bash"><table><tr><td class="gutter"]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      <pubDate>Sat, 03 Jan 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>2025 年度总结</title>
       <link>https://www.minbit.top/posts/22243.html</link>
       <description>
@@ -74,6 +89,24 @@
       <pubDate>Wed, 31 Dec 2025 16:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>18 MySQL 用户管理</title>
+      <link>https://www.minbit.top/posts/5909.html</link>
+      <description>
+        <![CDATA[<h1>MySQL 用户管理</h1>
+<h2 id="1-用户">1. 用户</h2>
+<h3 id="1-查看用户信息">1. 查看用户信息</h3>
+<p>MySQL 8 的用户信息主要在 <strong><code>mysql.user</code></strong> 表里。常用几种方式：</p>
+<ul>
+<li><strong>查所有用户：</strong></li>
+</ul>
+<f]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      <pubDate>Sun, 28 Dec 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>C++ 移动语义</title>
       <link>https://www.minbit.top/posts/14353.html</link>
       <description>
@@ -86,7 +119,7 @@
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/C/">C++</category>
       <category domain="https://www.minbit.top/tags/C/">C++</category>
-      <pubDate>Sun, 28 Dec 2025 02:00:00 GMT</pubDate>
+      <pubDate>Sat, 27 Dec 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>OpenCode CLI + Oh-My-OpenCode 入门指南</title>
@@ -104,19 +137,60 @@
       <pubDate>Thu, 25 Dec 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>08 表的增删改查下</title>
-      <link>https://www.minbit.top/posts/39993.html</link>
+      <title>17 MySQL 视图</title>
+      <link>https://www.minbit.top/posts/17926.html</link>
       <description>
-        <![CDATA[<h1>表的增删改查下</h1>
-<h2 id="1-update（修改）">1. update（修改）</h2>
-<h3 id="1-语法">1. 语法</h3>
-<p>UPDATE 用于修改已有数据，必须配合 WHERE 精确更新；并发场景下要用原子更新和事务，避免先查再改。</p>
-<figure class="highlight sql"><table><tr><td class="gut]]>
+        <![CDATA[<h1>MySQL 视图</h1>
+<h2 id="1-视图是什么">1. 视图是什么</h2>
+<p>视图就是 <strong>虚拟表</strong>，本身不存数据，它只是把一条或多条 SQL 查询封装起来，同真实的表一样包含一系列带有名称的列和行数据，用它就像操作表一样，<strong>简单理解：视图就是个存好的 SELECT 语句。</strong> 举个例子：有个员工表 <code>em]]>
       </description>
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
       <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
-      <pubDate>Fri, 12 Dec 2025 16:00:00 GMT</pubDate>
+      <pubDate>Mon, 22 Dec 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>16 MySQL 事务</title>
+      <link>https://www.minbit.top/posts/32165.html</link>
+      <description>
+        <![CDATA[<h1>MySQL 事务</h1>
+<h2 id="1-什么是事务？">1. 什么是事务？</h2>
+<p><strong>事务就是“要么全做，要么全不做”的一组数据库操作，可以类比以前学过的原子操作。</strong> 打个比方：<strong>银行转账</strong>。假设要给朋友转账 100 块钱，这在数据库里其实分两步走：</p>
+<ol>
+<li><strong>自己的账户余额减去 1]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      <pubDate>Fri, 19 Dec 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>15 索引操作</title>
+      <link>https://www.minbit.top/posts/2968.html</link>
+      <description>
+        <![CDATA[<h1>索引操作</h1>
+<h2 id="1-创建主键索引">1. 创建主键索引</h2>
+<p>主键索引就是给表里的某列（或几列组合）加一个“唯一且非空”的标记，给表设置主键，MySQL 底层会自动生成 <strong>聚簇索引（数据和索引绑在一起存）</strong> 来优化查询和存储，主键就是这行数据的“身份证号”，能保证数据唯一，还能加快查询速度。</p>
+<blockquote>
+<p]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      <pubDate>Mon, 15 Dec 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>14 MySQL 索引特性</title>
+      <link>https://www.minbit.top/posts/36916.html</link>
+      <description>
+        <![CDATA[<h1>MySQL 索引特性</h1>
+<h2 id="1-索引的概念">1. 索引的概念</h2>
+<p>索引就是帮 MySQL <strong>快速查数据</strong> 的一种 <strong>数据结构</strong>，就像书的目录一样，不需要翻整本书，只查目录定位页码直接跳到目标，没有索引就得 <strong>全表扫</strong>，一条一条比对特征值，慢得很（有索引 → 快，无索引]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      <pubDate>Thu, 11 Dec 2025 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>计算机的颜色表示</title>
@@ -131,6 +205,25 @@
       <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
       <category domain="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/">涨知识</category>
       <pubDate>Tue, 09 Dec 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>13 表的内外连接</title>
+      <link>https://www.minbit.top/posts/20172.html</link>
+      <description>
+        <![CDATA[<h1>表的内连和外连</h1>
+<blockquote>
+<p>多表查询时，数据怎么凑在一起看，就是连接。</p>
+<ul>
+<li><strong>内连接（INNER JOIN）</strong> → 只保留匹配上的</li>
+<li><strong>外连接（OUTER JOIN）</strong> → 保留一边，不管另一边有没有匹配</li>
+</ul>
+</blockquote>
+<h2]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      <pubDate>Sun, 07 Dec 2025 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>解决代码文件中的乱码问题</title>
@@ -167,6 +260,20 @@
       <pubDate>Sat, 06 Dec 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>12 复合查询下</title>
+      <link>https://www.minbit.top/posts/36775.html</link>
+      <description>
+        <![CDATA[<h1>复合查询下</h1>
+<h2 id="1-子查询">1. 子查询</h2>
+<p>子查询就是 <strong>在一个查询里面套另一个查询</strong>，让内层查询先跑，结果再给外层查询用，可以理解成：先算出一个表/值，然后外层再用它做筛选、计算或关联。<strong>本质就是一个 SELECT 嵌在另一个 SELECT 里，里面的叫子查询，外面的叫主查询。</strong></p>
+<]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
+      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
+      <pubDate>Mon, 01 Dec 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>C++ 异常处理</title>
       <link>https://www.minbit.top/posts/54233.html</link>
       <description>
@@ -178,144 +285,47 @@
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/C/">C++</category>
       <category domain="https://www.minbit.top/tags/C/">C++</category>
-      <pubDate>Sun, 30 Nov 2025 02:00:00 GMT</pubDate>
+      <pubDate>Mon, 01 Dec 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 22.04 中安装 thefuck 与 tldr 工具</title>
-      <link>https://www.minbit.top/posts/38170.html</link>
+      <title>11 复合查询上</title>
+      <link>https://www.minbit.top/posts/49046.html</link>
       <description>
-        <![CDATA[<h1>Ubuntu 22.04 中安装 thefuck 与 tldr 工具</h1>
-<p>作为一名经常使用终端的开发者，拥有高效的命令行工具能极大提升工作效率。本文将详细介绍如何在 Ubuntu 22.04 系统上安装和配置两款非常实用的终端工具：<code>thefuck</code>（命令纠错工具）和 <code>tldr</code>（简洁帮助文档工具），并分享安装过程中遇到的问题及解决]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/Linux/">Linux</category>
-      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
-      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
-      <pubDate>Sat, 22 Nov 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CodeX CLI 的使用备忘</title>
-      <link>https://www.minbit.top/posts/31539.html</link>
-      <description>
-        <![CDATA[<h1>CodeX CLI 的使用备忘</h1>
-<p>想要使用 CodeX 得要是 ChatGPT 的 plus 及以上用户才能使用，但是网上也存在接入国产模型的教程，下面是我在使用 CodeX CLI 的一些备忘，非教程：</p>
-<blockquote>
-<p><a href="%5BCodex%5D(https://chatgpt.com/codex)">CodeX 官网</a></p>]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/AI/">AI</category>
-      <category domain="https://www.minbit.top/tags/AI/">AI</category>
-      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
-      <pubDate>Wed, 19 Nov 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>VS Code 中的 Python 环境</title>
-      <link>https://www.minbit.top/posts/50161.html</link>
-      <description>
-        <![CDATA[<h1>VS Code 中的 Python 环境</h1>
-<blockquote>
-<p>起因是闲暇之余用到了 python，打开 pycharm 一看，好家伙居然不给我用，需要进行激活，我也知道网上存在大量的激活教程什么的，于是就去了，结果这些个博主非要关注、私信才给激活码/破解包，还放在龟速网盘中，真是气不打一处来。另一方面 pycharm 体积不能说很大吧，就是感觉体积偏大，弄一堆冗杂的插]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
-      <category domain="https://www.minbit.top/tags/VS-Code/">VS Code</category>
-      <category domain="https://www.minbit.top/tags/Python/">Python</category>
-      <pubDate>Fri, 14 Nov 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器小技巧</title>
-      <link>https://www.minbit.top/posts/46513.html</link>
-      <description>
-        <![CDATA[<h1>浏览器小技巧</h1>
-<h2 id="1-Chrome-Edge-开启高速多线程下载">1. Chrome / Edge 开启高速多线程下载</h2>
-<p>地址栏输入：</p>
-<ul>
-<li><strong>Chrome</strong>: chrome://flags/#enable-parallel-downloading</li>
-<li><strong>Edge</stro]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
-      <category domain="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/">涨知识</category>
-      <pubDate>Tue, 11 Nov 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费白嫖 ChatGPT Go 套餐</title>
-      <link>https://www.minbit.top/posts/41191.html</link>
-      <description>
-        <![CDATA[<h1>免费白嫖 ChatGPT Go 套餐 12 个月（一年）</h1>
-<h2 id="1-前提说明">1. 前提说明</h2>
-<blockquote>
-<p><strong>官方说明：</strong></p>
-<p><a href="https://help.openai.com/zh-hans-cn/articles/11989085-what-is-chatgpt-go">什么是 C]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/AI/">AI</category>
-      <category domain="https://www.minbit.top/tags/AI/">AI</category>
-      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
-      <pubDate>Tue, 04 Nov 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>07 表的增删改查上</title>
-      <link>https://www.minbit.top/posts/60665.html</link>
-      <description>
-        <![CDATA[<h1>表的增删改查上</h1>
-<h2 id="1-Create（创建）">1. Create（创建）</h2>
-<h3 id="1-单行插入-全列插入（最基础）">1. 单行插入 + 全列插入（最基础）</h3>
-<h4 id="1-语法格式">1. 语法格式</h4>
-<figure class="highlight sql"><table><tr><td class="gutter"><p]]>
+        <![CDATA[<h1>复合查询上</h1>
+<h2 id="1-基本查询回顾">1. 基本查询回顾</h2>
+<p>首先我们先创建下面的表数据：</p>
+<figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><sp]]>
       </description>
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
       <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
-      <pubDate>Sun, 02 Nov 2025 16:00:00 GMT</pubDate>
+      <pubDate>Fri, 28 Nov 2025 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>06 表的约束</title>
-      <link>https://www.minbit.top/posts/37148.html</link>
+      <title>10 内置函数下</title>
+      <link>https://www.minbit.top/posts/21475.html</link>
       <description>
-        <![CDATA[<h1>表的约束</h1>
-<h2 id="1-什么是表的约束？">1. 什么是表的约束？</h2>
-<p>表的约束就是 <strong>限制字段中能存什么数据、不能存什么数据</strong> 的规则，目的：<strong>防止脏数据进入数据库</strong>。举例理解：</p>
-<ul>
-<li>不允许“性别”列里填手机号。</li>
-<li>不允许“年龄”列为空或写成负数。</li>
-<l]]>
+        <![CDATA[<h1>内置函数下</h1>
+<h2 id="1-数学函数">1. 数学函数</h2>
+<table>
+<thead>
+<tr>
+<th>函数名称</th>
+<th>功能描述</th>
+<th>参数说明</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ABS(number)</code></td>
+<td>计算绝对值</td>
+<td>]]>
       </description>
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
       <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
-      <pubDate>Sat, 01 Nov 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>回调函数</title>
-      <link>https://www.minbit.top/posts/45103.html</link>
-      <description>
-        <![CDATA[<h1>回调函数</h1>
-<blockquote>
-<p><a href="https://www.bilibili.com/video/BV1cW421N7P2/?share_source=copy_web&amp;vd_source=872e5e3ccf44874c39edaf42e30ab0de">3 分钟彻底理解回调函数 | B 站</a></p>
-<p><a href="https:/]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/C/">C++</category>
-      <category domain="https://www.minbit.top/tags/C/">C++</category>
-      <pubDate>Wed, 29 Oct 2025 08:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ 语言层面上的多线程</title>
-      <link>https://www.minbit.top/posts/26657.html</link>
-      <description>
-        <![CDATA[<h1>C++ 语言层面上的多线程</h1>
-<blockquote>
-<p><a href="https://wyqz.top/p/2668140628.html">C++11 多线程 | 行码棋</a></p>
-</blockquote>
-<h2 id="1-C-11-的线程模型-vs-pthread-的对应关系">1. C++11 的线程模型 vs pthread 的对应关系</h2>
-<t]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/C/">C++</category>
-      <category domain="https://www.minbit.top/tags/C/">C++</category>
-      <category domain="https://www.minbit.top/tags/%E7%BA%BF%E7%A8%8B/">线程</category>
-      <pubDate>Sat, 25 Oct 2025 08:40:00 GMT</pubDate>
+      <pubDate>Sun, 23 Nov 2025 16:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
