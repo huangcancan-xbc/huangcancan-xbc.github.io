@@ -6,9 +6,39 @@
     <description>时间好像总会留下点什么，或许是一个人，或许是一个梦，或许……是一段有意义的经历~</description>
     <language>zh-CN</language>
     <copyright>All rights reserved 2026, 小米里的大麦</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 02:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 02:10:00 GMT</lastBuildDate>
     <generator>Hexo</generator>
     <atom:link href="https://www.minbit.top/rss2.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>匿踪：从 Proton Pass 开始</title>
+      <link>https://www.minbit.top/posts/39766.html</link>
+      <description>
+        <![CDATA[<h1>匿踪：从 Proton Pass 开始</h1>
+<blockquote>
+<p>这篇文章应该早就应该出现了，但是由于本人太懒，直到现在才发出来 🤪，Proton mail 我已使用一年之久，<strong>免费、安全、稳定、可靠、值得信赖！</strong> 我的许多付费、重要的服务全面由它接管，好了，废话不多说，我们直接开始！</p>
+<p>我们在使用互联网服务时，经常需要用邮箱注册]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/">灵光荟萃</category>
+      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+      <category domain="https://www.minbit.top/tags/%E9%82%AE%E7%AE%B1/">邮箱</category>
+      <pubDate>Sun, 26 Apr 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WSL 的安装、配置与使用</title>
+      <link>https://www.minbit.top/posts/14416.html</link>
+      <description>
+        <![CDATA[<h1>WSL 的安装、配置与使用</h1>
+<h2 id="1-什么是-WSL？">1. 什么是 WSL？</h2>
+<p>WSL 全称 Windows Subsystem for Linux，是微软为 Windows 提供的一个轻量级虚拟化环境。简单来说，它 <strong>不用装双系统，不用开臃肿的传统虚拟机</strong>，就能在 Windows 里直接跑原生 Linux 环境（默认发行]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/Linux/">Linux</category>
+      <category domain="https://www.minbit.top/tags/Linux/">Linux</category>
+      <category domain="https://www.minbit.top/tags/Python/">Python</category>
+      <category domain="https://www.minbit.top/tags/WSL/">WSL</category>
+      <pubDate>Tue, 14 Apr 2026 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一台服务器 / VPS 的玩法：1Panel 面板与 3x-ui 的完美融合</title>
       <link>https://www.minbit.top/posts/13131.html</link>
@@ -286,46 +316,6 @@
       <category domain="https://www.minbit.top/categories/C/">C++</category>
       <category domain="https://www.minbit.top/tags/C/">C++</category>
       <pubDate>Mon, 01 Dec 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>11 复合查询上</title>
-      <link>https://www.minbit.top/posts/49046.html</link>
-      <description>
-        <![CDATA[<h1>复合查询上</h1>
-<h2 id="1-基本查询回顾">1. 基本查询回顾</h2>
-<p>首先我们先创建下面的表数据：</p>
-<figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><sp]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
-      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
-      <pubDate>Fri, 28 Nov 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 内置函数下</title>
-      <link>https://www.minbit.top/posts/21475.html</link>
-      <description>
-        <![CDATA[<h1>内置函数下</h1>
-<h2 id="1-数学函数">1. 数学函数</h2>
-<table>
-<thead>
-<tr>
-<th>函数名称</th>
-<th>功能描述</th>
-<th>参数说明</th>
-<th>示例</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>ABS(number)</code></td>
-<td>计算绝对值</td>
-<td>]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
-      <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
-      <pubDate>Sun, 23 Nov 2025 16:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
