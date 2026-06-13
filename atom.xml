@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, 小米里的大麦</rights>
   <subtitle>后端开发 · C++ · Linux</subtitle>
   <title>小米里的大麦</title>
-  <updated>2026-04-27T02:10:00.000Z</updated>
+  <updated>2026-06-03T02:10:00.000Z</updated>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
+    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="Terminal" scheme="https://www.minbit.top/tags/Terminal/"/>
+    <id>https://www.minbit.top/posts/4952.html</id>
+    <link href="https://www.minbit.top/posts/4952.html"/>
+    <published>2026-05-31T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>PowerShell 7 + Oh My Posh 终端美化指南</h1>
+<h2 id="1-前言">1. 前言</h2>
+<p>Windows 自带的 PowerShell 5.1 功能有限，界面也比较朴素。通过安装 <strong>PowerShell 7</strong> 和 <strong>Oh My Posh</strong>，我们可以获得一个更强大、更美观的终端环境。</p>]]>
+    </summary>
+    <title>PowerShell 7 + Oh My Posh 终端美化指南</title>
+    <updated>2026-06-03T02:10:00.000Z</updated>
+  </entry>
   <entry>
     <author>
       <name>小米里的大麦</name>
@@ -34,6 +52,27 @@
     <author>
       <name>小米里的大麦</name>
     </author>
+    <category term="AI" scheme="https://www.minbit.top/categories/AI/"/>
+    <category term="AI" scheme="https://www.minbit.top/tags/AI/"/>
+    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="Skills" scheme="https://www.minbit.top/tags/Skills/"/>
+    <category term="Claude" scheme="https://www.minbit.top/tags/Claude/"/>
+    <id>https://www.minbit.top/posts/8568.html</id>
+    <link href="https://www.minbit.top/posts/8568.html"/>
+    <published>2026-04-23T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>我的 CC Skills 技能清单</h1>
+<blockquote>
+<p>这篇文章记录了我日常安装和使用的 Claude Code (CC) Skills。这些技能按照作用范围主要分为 <strong>Plugin（全局插件级）</strong> 和 <strong>项目级</strong> 两类。其中，Plugin 是全局生效的，而项目级则是专门针对特定项目环境配置的。</p>
+</]]>
+    </summary>
+    <title>我的 CC Skills 技能清单</title>
+    <updated>2026-05-26T02:10:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
     <category term="Linux" scheme="https://www.minbit.top/categories/Linux/"/>
     <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
     <category term="Python" scheme="https://www.minbit.top/tags/Python/"/>
@@ -47,7 +86,71 @@
 <p>WSL 全称 Windows Subsystem for Linux，是微软为 Windows 提供的一个轻量级虚拟化环境。简单来说，它 <strong>不用装双系统，不用开臃肿的传统虚拟机</strong>，就能在 Windows 里直接跑原生 Linux 环境（默认发行]]>
     </summary>
     <title>WSL 的安装、配置与使用</title>
-    <updated>2026-04-14T04:00:00.000Z</updated>
+    <updated>2026-06-02T04:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
+    <category term="网络" scheme="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/"/>
+    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
+    <id>https://www.minbit.top/posts/23257.html</id>
+    <link href="https://www.minbit.top/posts/23257.html"/>
+    <published>2026-03-12T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>网络线路科普：直连、中转、专线到底有啥区别？</h1>
+<blockquote>
+<p>买机场/VPN/VPS 时，经常看到 “CN2 线路”、“IPLC 专线”、“BGP 中转” 这些词，到底是什么意思？今天我们就来聊聊这些线路的区别，帮你选到最适合自己的 🤪</p>
+</blockquote>
+<h2 id="1-什么是-“线路”？">1. 什么是 “线路”？</h2>
+<p>在深入]]>
+    </summary>
+    <title>网络线路科普：直连、中转、专线到底有啥区别？</title>
+    <updated>2026-03-15T04:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
+    <category term="Linux" scheme="https://www.minbit.top/tags/Linux/"/>
+    <category term="网络" scheme="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/"/>
+    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
+    <id>https://www.minbit.top/posts/60185.html</id>
+    <link href="https://www.minbit.top/posts/60185.html"/>
+    <published>2026-03-01T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>为什么你的网这么慢？—— 网络常识从入门到放弃</h1>
+<blockquote>
+<p>很多网络概念听起来很 technical，但其实它们直接影响我们的日常上网体验。</p>
+</blockquote>
+<h2 id="1-带宽-——-网络的-“马路宽度”">1. 带宽 —— 网络的 “马路宽度”</h2>
+<p><strong>带宽</strong> 决定了单位时间内能传输多少数据，]]>
+    </summary>
+    <title>为什么你的网这么慢？—— 网络常识从入门到放弃</title>
+    <updated>2026-03-01T04:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
+    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="网络" scheme="https://www.minbit.top/tags/%E7%BD%91%E7%BB%9C/"/>
+    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
+    <id>https://www.minbit.top/posts/32075.html</id>
+    <link href="https://www.minbit.top/posts/32075.html"/>
+    <published>2026-02-11T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>3x-ui 搭配避坑指南：协议、传输、安全怎么选？</h1>
+<h2 id="1-协议、传输、安全是什么？">1. 协议、传输、安全是什么？</h2>
+<p>在深入了解各种搭配之前，我们先搞清楚三个基本概念：</p>
+<h3 id="1-协议-——-数据的-“打包方式”">1. 协议 —— 数据的 “打包方式”</h3>
+<p>协议决定了数据怎么打包、怎么传输。目前主流的协议有：</p>]]>
+    </summary>
+    <title>3x-ui 搭配避坑指南：协议、传输、安全怎么选？</title>
+    <updated>2026-04-16T02:10:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -297,106 +400,5 @@
     </summary>
     <title>计算机的颜色表示</title>
     <updated>2025-12-10T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    <id>https://www.minbit.top/posts/20172.html</id>
-    <link href="https://www.minbit.top/posts/20172.html"/>
-    <published>2025-12-07T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>表的内连和外连</h1>
-<blockquote>
-<p>多表查询时，数据怎么凑在一起看，就是连接。</p>
-<ul>
-<li><strong>内连接（INNER JOIN）</strong> → 只保留匹配上的</li>
-<li><strong>外连接（OUTER JOIN）</strong> → 保留一边，不管另一边有没有匹配</li>
-</ul>
-</blockquote>
-<h2]]>
-    </summary>
-    <title>13 表的内外连接</title>
-    <updated>2025-12-08T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
-    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
-    <id>https://www.minbit.top/posts/43509.html</id>
-    <link href="https://www.minbit.top/posts/43509.html"/>
-    <published>2025-12-07T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>解决代码文件中的乱码问题</h1>
-<p>你有没有遇到过：代码在 Visual Studio 中完美正常，在 VS Code 一打开却全是乱码？明明都是微软出品，却总在编码上“闹别扭”。别急，这个问题本质上是字符编码不一致，下面来详细说说。</p>
-<h3 id="1-乱码的本质：编码不匹配">1. 乱码的本质：编码不匹配</h3>
-<ul>
-<li><strong>Visual Stud]]>
-    </summary>
-    <title>解决代码文件中的乱码问题</title>
-    <updated>2026-12-08T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="C++" scheme="https://www.minbit.top/categories/C/"/>
-    <category term="C++" scheme="https://www.minbit.top/tags/C/"/>
-    <category term="IO" scheme="https://www.minbit.top/tags/IO/"/>
-    <id>https://www.minbit.top/posts/44084.html</id>
-    <link href="https://www.minbit.top/posts/44084.html"/>
-    <published>2025-12-06T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>C++ IO 指南</h1>
-<h2 id="1-文件流-ifstream-ofstream-fstream（核心）">1. 文件流 <code>ifstream / ofstream / fstream</code>（核心）</h2>
-<h3 id="1-一句话记住三个类">1. 一句话记住三个类</h3>
-<table>
-<thead>
-<tr>
-<th>类名</th>
-<th>作用<]]>
-    </summary>
-    <title>C++ IO 指南</title>
-    <updated>2025-12-06T02:00:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    <id>https://www.minbit.top/posts/36775.html</id>
-    <link href="https://www.minbit.top/posts/36775.html"/>
-    <published>2025-12-01T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>复合查询下</h1>
-<h2 id="1-子查询">1. 子查询</h2>
-<p>子查询就是 <strong>在一个查询里面套另一个查询</strong>，让内层查询先跑，结果再给外层查询用，可以理解成：先算出一个表/值，然后外层再用它做筛选、计算或关联。<strong>本质就是一个 SELECT 嵌在另一个 SELECT 里，里面的叫子查询，外面的叫主查询。</strong></p>
-<]]>
-    </summary>
-    <title>12 复合查询下</title>
-    <updated>2025-12-02T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="C++" scheme="https://www.minbit.top/categories/C/"/>
-    <category term="C++" scheme="https://www.minbit.top/tags/C/"/>
-    <id>https://www.minbit.top/posts/54233.html</id>
-    <link href="https://www.minbit.top/posts/54233.html"/>
-    <published>2025-12-01T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>C++异常处理</h1>
-<h2 id="1-throw-try-catch-基本语法">1. throw / try / catch 基本语法</h2>
-<h3 id="1-头文件">1. 头文件</h3>
-<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span]]>
-    </summary>
-    <title>C++ 异常处理</title>
-    <updated>2025-12-02T02:00:00.000Z</updated>
   </entry>
 </feed>
