@@ -10,7 +10,33 @@
   <rights>All rights reserved 2026, 小米里的大麦</rights>
   <subtitle>后端开发 · C++ · Linux</subtitle>
   <title>小米里的大麦</title>
-  <updated>2026-06-03T02:10:00.000Z</updated>
+  <updated>2026-06-29T16:00:00.000Z</updated>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
+    <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
+    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <id>https://www.minbit.top/posts/16945.html</id>
+    <link href="https://www.minbit.top/posts/16945.html"/>
+    <published>2026-06-23T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>实习总结</h1>
+<blockquote>
+<p>2026.04 – 2026.06，在陕西航天宏图 / 天权时空的空天产品研发部待了大约两个月。这篇是我自己对这段经历的整理，也方便以后翻看。</p>
+</blockquote>
+<h2 id="1-基本信息">1. 基本信息</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>内容</th>
+</tr>]]>
+    </summary>
+    <title>天权-实习总结</title>
+    <updated>2026-06-29T16:00:00.000Z</updated>
+  </entry>
   <entry>
     <author>
       <name>小米里的大麦</name>
@@ -28,6 +54,60 @@
     </summary>
     <title>PowerShell 7 + Oh My Posh 终端美化指南</title>
     <updated>2026-06-03T02:10:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
+    <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
+    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <id>https://www.minbit.top/posts/3123.html</id>
+    <link href="https://www.minbit.top/posts/3123.html"/>
+    <published>2026-05-24T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="2026-05-25">2026.05.25</h3>
+<p>参与到星控算法测试项目中了。上午主要做 Docker 打包和启动验证，下午则继续完善前端代码，并修改 Python 后端代码，内容主要是修复 BUG 和补充新功能。</p>
+<h3 id="2026-05-26">2026.05.26</h3>
+<p>先帮运维总监处理了 Hermes Agent 相关问题，随后继续推进星]]>
+    </summary>
+    <title>天权-实习那些事04</title>
+    <updated>2026-06-17T16:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
+    <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
+    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <id>https://www.minbit.top/posts/52850.html</id>
+    <link href="https://www.minbit.top/posts/52850.html"/>
+    <published>2026-05-10T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="2026-05-11">2026.05.11</h3>
+<p>今天把打包好的 AFSIM 相关文件、启动方式和之前沉淀下来的编译文档，交接给哈尔滨的同事。但对方电脑不能上网，运行也报错，系统和环境都不一样，协调沟通了后还是没能解决。最后老大让我从 Ubuntu 转到统信 UOS，再重新编译打包一遍 🤣。</p>
+<p>紧接着迎来了我这次实习的 <strong>第一个关键节点</s]]>
+    </summary>
+    <title>天权-实习那些事03</title>
+    <updated>2026-05-21T16:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
+    <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
+    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <id>https://www.minbit.top/posts/3763.html</id>
+    <link href="https://www.minbit.top/posts/3763.html"/>
+    <published>2026-04-26T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="2026-04-27">2026.04.27</h3>
+<p>按照之前说的，本来是要让我正式接触 Node.js、空间算法、Puerts 这些的，但我顺手给老大演示了一下我自己电脑上的 AI 本地化方案。可能是因为他觉得我对 AI 这块有一些自己的想法，于是就让我先试着用 OpenCode 接公司本地模型。啊？也就是几天时间，公司就将 AI 本地化了，看样子我成为公司 AI 专家是]]>
+    </summary>
+    <title>天权-实习那些事02</title>
+    <updated>2026-05-08T16:00:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -63,11 +143,12 @@
     <summary>
       <![CDATA[<h1>我的 CC Skills 技能清单</h1>
 <blockquote>
-<p>这篇文章记录了我日常安装和使用的 Claude Code (CC) Skills。这些技能按照作用范围主要分为 <strong>Plugin（全局插件级）</strong> 和 <strong>项目级</strong> 两类。其中，Plugin 是全局生效的，而项目级则是专门针对特定项目环境配置的。</p>
-</]]>
+<p>这篇文章记录了我日常安装和使用的 Claude Code (CC) Skills。这些技能按照使用场景主要分为 <strong>推荐全局安装</strong> 和 <strong>按项目按需安装</strong> 两类。</p>
+</blockquote>
+<h2 id="1-安装方式说明">1. 安装方式说明<]]>
     </summary>
     <title>我的 CC Skills 技能清单</title>
-    <updated>2026-05-26T02:10:00.000Z</updated>
+    <updated>2026-06-05T02:00:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -87,6 +168,27 @@
     </summary>
     <title>WSL 的安装、配置与使用</title>
     <updated>2026-06-02T04:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
+    <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
+    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <id>https://www.minbit.top/posts/4083.html</id>
+    <link href="https://www.minbit.top/posts/4083.html"/>
+    <published>2026-04-02T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="2026-04-03">2026.04.03</h3>
+<p>此时此刻，我的 BOSS 仅仅沟通了 39 家公司，投出去 4 份简历，而这，就是我拿到的第一个面试。就这样，糊里糊涂地去了。面试大概 1 个多小时，具体内容有些记不清了，印象比较深的有：</p>
+<ul>
+<li>如何 Debug、遇到 BUG 怎么办？</li>
+<li>对锁的理解</li>
+<li>项目中有哪些方式]]>
+    </summary>
+    <title>天权-实习那些事01</title>
+    <updated>2026-04-23T16:00:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -310,95 +412,5 @@
     </summary>
     <title>OpenCode CLI + Oh-My-OpenCode 入门指南</title>
     <updated>2026-02-15T04:00:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    <id>https://www.minbit.top/posts/17926.html</id>
-    <link href="https://www.minbit.top/posts/17926.html"/>
-    <published>2025-12-22T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>MySQL 视图</h1>
-<h2 id="1-视图是什么">1. 视图是什么</h2>
-<p>视图就是 <strong>虚拟表</strong>，本身不存数据，它只是把一条或多条 SQL 查询封装起来，同真实的表一样包含一系列带有名称的列和行数据，用它就像操作表一样，<strong>简单理解：视图就是个存好的 SELECT 语句。</strong> 举个例子：有个员工表 <code>em]]>
-    </summary>
-    <title>17 MySQL 视图</title>
-    <updated>2025-12-23T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    <id>https://www.minbit.top/posts/32165.html</id>
-    <link href="https://www.minbit.top/posts/32165.html"/>
-    <published>2025-12-19T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>MySQL 事务</h1>
-<h2 id="1-什么是事务？">1. 什么是事务？</h2>
-<p><strong>事务就是“要么全做，要么全不做”的一组数据库操作，可以类比以前学过的原子操作。</strong> 打个比方：<strong>银行转账</strong>。假设要给朋友转账 100 块钱，这在数据库里其实分两步走：</p>
-<ol>
-<li><strong>自己的账户余额减去 1]]>
-    </summary>
-    <title>16 MySQL 事务</title>
-    <updated>2025-12-20T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    <id>https://www.minbit.top/posts/2968.html</id>
-    <link href="https://www.minbit.top/posts/2968.html"/>
-    <published>2025-12-15T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>索引操作</h1>
-<h2 id="1-创建主键索引">1. 创建主键索引</h2>
-<p>主键索引就是给表里的某列（或几列组合）加一个“唯一且非空”的标记，给表设置主键，MySQL 底层会自动生成 <strong>聚簇索引（数据和索引绑在一起存）</strong> 来优化查询和存储，主键就是这行数据的“身份证号”，能保证数据唯一，还能加快查询速度。</p>
-<blockquote>
-<p]]>
-    </summary>
-    <title>15 索引操作</title>
-    <updated>2025-12-16T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
-    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
-    <id>https://www.minbit.top/posts/36916.html</id>
-    <link href="https://www.minbit.top/posts/36916.html"/>
-    <published>2025-12-11T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>MySQL 索引特性</h1>
-<h2 id="1-索引的概念">1. 索引的概念</h2>
-<p>索引就是帮 MySQL <strong>快速查数据</strong> 的一种 <strong>数据结构</strong>，就像书的目录一样，不需要翻整本书，只查目录定位页码直接跳到目标，没有索引就得 <strong>全表扫</strong>，一条一条比对特征值，慢得很（有索引 → 快，无索引]]>
-    </summary>
-    <title>14 MySQL 索引特性</title>
-    <updated>2025-12-12T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="灵光荟萃" scheme="https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/"/>
-    <category term="涨知识" scheme="https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/"/>
-    <id>https://www.minbit.top/posts/28259.html</id>
-    <link href="https://www.minbit.top/posts/28259.html"/>
-    <published>2025-12-09T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>计算机的颜色表示</h1>
-<h2 id="1-计算机为什么用-RGB-表示颜色？">1. 计算机为什么用 RGB 表示颜色？</h2>
-<h3 id="1-人眼如何感知颜色">1. 人眼如何感知颜色</h3>
-<p>计算机中颜色的表示主要基于 <strong>人眼感知颜色的方式</strong> 以及 <strong>硬件显示原理</strong>。人眼的视网膜上有三类锥体细胞，分别对三]]>
-    </summary>
-    <title>计算机的颜色表示</title>
-    <updated>2025-12-10T02:10:00.000Z</updated>
   </entry>
 </feed>
