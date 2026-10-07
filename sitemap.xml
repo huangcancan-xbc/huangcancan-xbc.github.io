@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://www.minbit.top/posts/70821.html</loc>
+    
+    <lastmod>2026-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.minbit.top/link/index.html</loc>
     
     <lastmod>2026-10-05</lastmod>
@@ -1357,7 +1366,7 @@
   </url>
   
   <url>
-    <loc>https://www.minbit.top/tags/C/</loc>
+    <loc>https://www.minbit.top/tags/Git/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1378,6 +1387,13 @@
   </url>
   
   <url>
+    <loc>https://www.minbit.top/tags/C/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.minbit.top/tags/STL/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1392,13 +1408,6 @@
   </url>
   
   <url>
-    <loc>https://www.minbit.top/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.minbit.top/tags/%E7%BA%BF%E7%A8%8B/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1406,28 +1415,14 @@
   </url>
   
   <url>
+    <loc>https://www.minbit.top/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.minbit.top/tags/MySQL/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.minbit.top/tags/ZWSOFT/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1442,13 +1437,6 @@
   
   <url>
     <loc>https://www.minbit.top/tags/%E8%BF%9B%E7%A8%8B/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.minbit.top/tags/Git/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1490,14 +1478,14 @@
   </url>
   
   <url>
-    <loc>https://www.minbit.top/tags/Obsidian/</loc>
+    <loc>https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.minbit.top/tags/Python/</loc>
+    <loc>https://www.minbit.top/tags/ZWSOFT/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1505,6 +1493,20 @@
   
   <url>
     <loc>https://www.minbit.top/tags/CMake/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minbit.top/tags/Python/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1525,6 +1527,13 @@
   </url>
   
   <url>
+    <loc>https://www.minbit.top/tags/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.minbit.top/tags/%E6%B6%A8%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1532,14 +1541,7 @@
   </url>
   
   <url>
-    <loc>https://www.minbit.top/tags/%E5%8E%86%E7%A8%8B/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.minbit.top/tags/%E9%82%AE%E7%AE%B1/</loc>
+    <loc>https://www.minbit.top/tags/Obsidian/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1553,7 +1555,14 @@
   </url>
   
   <url>
-    <loc>https://www.minbit.top/tags/%E7%BD%91%E7%AB%99/</loc>
+    <loc>https://www.minbit.top/tags/%E9%82%AE%E7%AE%B1/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minbit.top/tags/%E5%8E%86%E7%A8%8B/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1563,6 +1572,13 @@
   
   <url>
     <loc>https://www.minbit.top/categories/AI/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minbit.top/categories/Git/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1583,13 +1599,6 @@
   </url>
   
   <url>
-    <loc>https://www.minbit.top/categories/OFFER/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.minbit.top/categories/Linux/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1597,21 +1606,7 @@
   </url>
   
   <url>
-    <loc>https://www.minbit.top/categories/Git/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.minbit.top/categories/Obsidian/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.minbit.top/categories/Python/</loc>
+    <loc>https://www.minbit.top/categories/OFFER/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1625,14 +1620,7 @@
   </url>
   
   <url>
-    <loc>https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.minbit.top/categories/%E5%8E%86%E7%A8%8B/</loc>
+    <loc>https://www.minbit.top/categories/Python/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1640,6 +1628,27 @@
   
   <url>
     <loc>https://www.minbit.top/categories/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minbit.top/categories/%E7%81%B5%E5%85%89%E8%8D%9F%E8%90%83/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minbit.top/categories/Obsidian/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minbit.top/categories/%E5%8E%86%E7%A8%8B/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
