@@ -6,11 +6,38 @@
     <description>后端开发 · C++ · Linux</description>
     <language>zh-CN</language>
     <copyright>All rights reserved 2026, 小米里的大麦</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:00:00 GMT</lastBuildDate>
     <generator>Hexo</generator>
     <atom:link href="https://www.minbit.top/rss2.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>天权-实习总结</title>
+      <title>中望软件-实习那些事</title>
+      <link>https://www.minbit.top/posts/64570.html</link>
+      <description>
+        <![CDATA[<h1>中望软件 - 实习那些事</h1>
+<blockquote>
+<p>前情提要：中望软件这家公司非常不错！我感觉员工幸福度很高！然后为什么我的实习记录相比陕西天权更少和更精简？我想……应该是因为：在中望的任务比较单一，很长时间都在做一件事或者相关的事，而陕西天权隔几天任务就会变，相对来说，任务是丰富多彩且有趣味的；再者就是，在中望每周四上午都会固定地开组会/周会，我直接修改“周报记录”变成实]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/OFFER/">OFFER</category>
+      <category domain="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/">实习</category>
+      <category domain="https://www.minbit.top/tags/ZWSOFT/">ZWSOFT</category>
+      <pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 包管理的新王 —— uv</title>
+      <link>https://www.minbit.top/posts/42424.html</link>
+      <description>
+        <![CDATA[<h1>Python 包管理的新王 —— uv</h1>
+<blockquote>
+<p>在之前的文章中我也多次提到 uv，但是我之前的认识太片面，现在回过头来看，有必要从头把 uv 的定位、安装方式、与 pip 的关系以及虚拟环境管理这些核心问题系统性地梳理一遍，帮助自己和读者建立一个清晰、准确的认知框架。普通开发者（尤其是 Windows 用户），推荐使用 standalone 方式安装 uv]]>
+      </description>
+      <author>小米里的大麦</author>
+      <category domain="https://www.minbit.top/categories/Python/">Python</category>
+      <category domain="https://www.minbit.top/tags/Python/">Python</category>
+      <pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>陕西天权-实习总结</title>
       <link>https://www.minbit.top/posts/16945.html</link>
       <description>
         <![CDATA[<h1>实习总结</h1>
@@ -28,7 +55,7 @@
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/OFFER/">OFFER</category>
       <category domain="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/">实习</category>
-      <category domain="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/">天权</category>
+      <category domain="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/">陕西天权</category>
       <pubDate>Tue, 23 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
@@ -46,7 +73,7 @@
       <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>天权-实习那些事04</title>
+      <title>陕西天权-实习那些事04</title>
       <link>https://www.minbit.top/posts/3123.html</link>
       <description>
         <![CDATA[<h3 id="2026-05-25">2026.05.25</h3>
@@ -57,11 +84,11 @@
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/OFFER/">OFFER</category>
       <category domain="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/">实习</category>
-      <category domain="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/">天权</category>
+      <category domain="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/">陕西天权</category>
       <pubDate>Sun, 24 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>天权-实习那些事03</title>
+      <title>陕西天权-实习那些事03</title>
       <link>https://www.minbit.top/posts/52850.html</link>
       <description>
         <![CDATA[<h3 id="2026-05-11">2026.05.11</h3>
@@ -71,11 +98,11 @@
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/OFFER/">OFFER</category>
       <category domain="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/">实习</category>
-      <category domain="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/">天权</category>
+      <category domain="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/">陕西天权</category>
       <pubDate>Sun, 10 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>天权-实习那些事02</title>
+      <title>陕西天权-实习那些事02</title>
       <link>https://www.minbit.top/posts/3763.html</link>
       <description>
         <![CDATA[<h3 id="2026-04-27">2026.04.27</h3>
@@ -84,7 +111,7 @@
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/OFFER/">OFFER</category>
       <category domain="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/">实习</category>
-      <category domain="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/">天权</category>
+      <category domain="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/">陕西天权</category>
       <pubDate>Sun, 26 Apr 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
@@ -136,7 +163,7 @@
       <pubDate>Tue, 14 Apr 2026 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>天权-实习那些事01</title>
+      <title>陕西天权-实习那些事01</title>
       <link>https://www.minbit.top/posts/4083.html</link>
       <description>
         <![CDATA[<h3 id="2026-04-03">2026.04.03</h3>
@@ -149,7 +176,7 @@
       <author>小米里的大麦</author>
       <category domain="https://www.minbit.top/categories/OFFER/">OFFER</category>
       <category domain="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/">实习</category>
-      <category domain="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/">天权</category>
+      <category domain="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/">陕西天权</category>
       <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
@@ -300,36 +327,6 @@
       <category domain="https://www.minbit.top/categories/MySQL/">MySQL</category>
       <category domain="https://www.minbit.top/tags/MySQL/">MySQL</category>
       <pubDate>Sun, 28 Dec 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ 移动语义</title>
-      <link>https://www.minbit.top/posts/14353.html</link>
-      <description>
-        <![CDATA[<h1>C++ 移动语义</h1>
-<h2 id="1-左值-vs-右值">1. 左值 vs 右值</h2>
-<h3 id="1-从一段代码开始">1. 从一段代码开始</h3>
-<p>我们从最底层开始，看这几行代码：</p>
-<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1<]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/C/">C++</category>
-      <category domain="https://www.minbit.top/tags/C/">C++</category>
-      <pubDate>Sat, 27 Dec 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenCode CLI + Oh-My-OpenCode 入门指南</title>
-      <link>https://www.minbit.top/posts/10402.html</link>
-      <description>
-        <![CDATA[<h1>Windows 上安装配置 OpenCode CLI + Oh-My-OpenCode 入门指南</h1>
-<h2 id="1-介绍">1. 介绍</h2>
-<p><strong>OpenCode CLI</strong> - 开源的 AI 编程助手命令行工具，类似 Cursor/Claude Code，但完全免费开源，支持多模型切换。</p>
-<p><strong>Oh-My-OpenC]]>
-      </description>
-      <author>小米里的大麦</author>
-      <category domain="https://www.minbit.top/categories/AI/">AI</category>
-      <category domain="https://www.minbit.top/tags/AI/">AI</category>
-      <category domain="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/">工具</category>
-      <pubDate>Thu, 25 Dec 2025 04:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

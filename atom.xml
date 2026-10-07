@@ -10,14 +10,49 @@
   <rights>All rights reserved 2026, 小米里的大麦</rights>
   <subtitle>后端开发 · C++ · Linux</subtitle>
   <title>小米里的大麦</title>
-  <updated>2026-06-29T16:00:00.000Z</updated>
+  <updated>2026-09-30T16:00:00.000Z</updated>
   <entry>
     <author>
       <name>小米里的大麦</name>
     </author>
     <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
     <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
-    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <category term="ZWSOFT" scheme="https://www.minbit.top/tags/ZWSOFT/"/>
+    <id>https://www.minbit.top/posts/64570.html</id>
+    <link href="https://www.minbit.top/posts/64570.html"/>
+    <published>2026-07-22T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>中望软件 - 实习那些事</h1>
+<blockquote>
+<p>前情提要：中望软件这家公司非常不错！我感觉员工幸福度很高！然后为什么我的实习记录相比陕西天权更少和更精简？我想……应该是因为：在中望的任务比较单一，很长时间都在做一件事或者相关的事，而陕西天权隔几天任务就会变，相对来说，任务是丰富多彩且有趣味的；再者就是，在中望每周四上午都会固定地开组会/周会，我直接修改“周报记录”变成实]]>
+    </summary>
+    <title>中望软件-实习那些事</title>
+    <updated>2026-09-30T16:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="Python" scheme="https://www.minbit.top/categories/Python/"/>
+    <category term="Python" scheme="https://www.minbit.top/tags/Python/"/>
+    <id>https://www.minbit.top/posts/42424.html</id>
+    <link href="https://www.minbit.top/posts/42424.html"/>
+    <published>2026-06-24T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>Python 包管理的新王 —— uv</h1>
+<blockquote>
+<p>在之前的文章中我也多次提到 uv，但是我之前的认识太片面，现在回过头来看，有必要从头把 uv 的定位、安装方式、与 pip 的关系以及虚拟环境管理这些核心问题系统性地梳理一遍，帮助自己和读者建立一个清晰、准确的认知框架。普通开发者（尤其是 Windows 用户），推荐使用 standalone 方式安装 uv]]>
+    </summary>
+    <title>Python 包管理的新王 —— uv</title>
+    <updated>2026-06-26T02:10:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
+    <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
+    <category term="陕西天权" scheme="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/"/>
     <id>https://www.minbit.top/posts/16945.html</id>
     <link href="https://www.minbit.top/posts/16945.html"/>
     <published>2026-06-23T16:00:00.000Z</published>
@@ -34,7 +69,7 @@
 <th>内容</th>
 </tr>]]>
     </summary>
-    <title>天权-实习总结</title>
+    <title>陕西天权-实习总结</title>
     <updated>2026-06-29T16:00:00.000Z</updated>
   </entry>
   <entry>
@@ -61,7 +96,7 @@
     </author>
     <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
     <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
-    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <category term="陕西天权" scheme="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/"/>
     <id>https://www.minbit.top/posts/3123.html</id>
     <link href="https://www.minbit.top/posts/3123.html"/>
     <published>2026-05-24T16:00:00.000Z</published>
@@ -71,7 +106,7 @@
 <h3 id="2026-05-26">2026.05.26</h3>
 <p>先帮运维总监处理了 Hermes Agent 相关问题，随后继续推进星]]>
     </summary>
-    <title>天权-实习那些事04</title>
+    <title>陕西天权-实习那些事04</title>
     <updated>2026-06-17T16:00:00.000Z</updated>
   </entry>
   <entry>
@@ -80,7 +115,7 @@
     </author>
     <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
     <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
-    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <category term="陕西天权" scheme="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/"/>
     <id>https://www.minbit.top/posts/52850.html</id>
     <link href="https://www.minbit.top/posts/52850.html"/>
     <published>2026-05-10T16:00:00.000Z</published>
@@ -89,7 +124,7 @@
 <p>今天把打包好的 AFSIM 相关文件、启动方式和之前沉淀下来的编译文档，交接给哈尔滨的同事。但对方电脑不能上网，运行也报错，系统和环境都不一样，协调沟通了后还是没能解决。最后老大让我从 Ubuntu 转到统信 UOS，再重新编译打包一遍 🤣。</p>
 <p>紧接着迎来了我这次实习的 <strong>第一个关键节点</s]]>
     </summary>
-    <title>天权-实习那些事03</title>
+    <title>陕西天权-实习那些事03</title>
     <updated>2026-05-21T16:00:00.000Z</updated>
   </entry>
   <entry>
@@ -98,7 +133,7 @@
     </author>
     <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
     <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
-    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <category term="陕西天权" scheme="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/"/>
     <id>https://www.minbit.top/posts/3763.html</id>
     <link href="https://www.minbit.top/posts/3763.html"/>
     <published>2026-04-26T16:00:00.000Z</published>
@@ -106,7 +141,7 @@
       <![CDATA[<h3 id="2026-04-27">2026.04.27</h3>
 <p>按照之前说的，本来是要让我正式接触 Node.js、空间算法、Puerts 这些的，但我顺手给老大演示了一下我自己电脑上的 AI 本地化方案。可能是因为他觉得我对 AI 这块有一些自己的想法，于是就让我先试着用 OpenCode 接公司本地模型。啊？也就是几天时间，公司就将 AI 本地化了，看样子我成为公司 AI 专家是]]>
     </summary>
-    <title>天权-实习那些事02</title>
+    <title>陕西天权-实习那些事02</title>
     <updated>2026-05-08T16:00:00.000Z</updated>
   </entry>
   <entry>
@@ -175,7 +210,7 @@
     </author>
     <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
     <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
-    <category term="天权" scheme="https://www.minbit.top/tags/%E5%A4%A9%E6%9D%83/"/>
+    <category term="陕西天权" scheme="https://www.minbit.top/tags/%E9%99%95%E8%A5%BF%E5%A4%A9%E6%9D%83/"/>
     <id>https://www.minbit.top/posts/4083.html</id>
     <link href="https://www.minbit.top/posts/4083.html"/>
     <published>2026-04-02T16:00:00.000Z</published>
@@ -187,7 +222,7 @@
 <li>对锁的理解</li>
 <li>项目中有哪些方式]]>
     </summary>
-    <title>天权-实习那些事01</title>
+    <title>陕西天权-实习那些事01</title>
     <updated>2026-04-23T16:00:00.000Z</updated>
   </entry>
   <entry>
@@ -374,43 +409,5 @@
     </summary>
     <title>18 MySQL 用户管理</title>
     <updated>2025-12-29T02:10:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="C++" scheme="https://www.minbit.top/categories/C/"/>
-    <category term="C++" scheme="https://www.minbit.top/tags/C/"/>
-    <id>https://www.minbit.top/posts/14353.html</id>
-    <link href="https://www.minbit.top/posts/14353.html"/>
-    <published>2025-12-27T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>C++ 移动语义</h1>
-<h2 id="1-左值-vs-右值">1. 左值 vs 右值</h2>
-<h3 id="1-从一段代码开始">1. 从一段代码开始</h3>
-<p>我们从最底层开始，看这几行代码：</p>
-<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1<]]>
-    </summary>
-    <title>C++ 移动语义</title>
-    <updated>2025-12-28T02:00:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="AI" scheme="https://www.minbit.top/categories/AI/"/>
-    <category term="AI" scheme="https://www.minbit.top/tags/AI/"/>
-    <category term="工具" scheme="https://www.minbit.top/tags/%E5%B7%A5%E5%85%B7/"/>
-    <id>https://www.minbit.top/posts/10402.html</id>
-    <link href="https://www.minbit.top/posts/10402.html"/>
-    <published>2025-12-25T04:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>Windows 上安装配置 OpenCode CLI + Oh-My-OpenCode 入门指南</h1>
-<h2 id="1-介绍">1. 介绍</h2>
-<p><strong>OpenCode CLI</strong> - 开源的 AI 编程助手命令行工具，类似 Cursor/Claude Code，但完全免费开源，支持多模型切换。</p>
-<p><strong>Oh-My-OpenC]]>
-    </summary>
-    <title>OpenCode CLI + Oh-My-OpenCode 入门指南</title>
-    <updated>2026-02-15T04:00:00.000Z</updated>
   </entry>
 </feed>
