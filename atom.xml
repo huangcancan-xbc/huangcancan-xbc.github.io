@@ -10,25 +10,7 @@
   <rights>All rights reserved 2026, 小米里的大麦</rights>
   <subtitle>后端开发 · C++ · Linux</subtitle>
   <title>小米里的大麦</title>
-  <updated>2026-10-06T16:00:00.000Z</updated>
-  <entry>
-    <author>
-      <name>小米里的大麦</name>
-    </author>
-    <category term="OFFER" scheme="https://www.minbit.top/categories/OFFER/"/>
-    <category term="实习" scheme="https://www.minbit.top/tags/%E5%AE%9E%E4%B9%A0/"/>
-    <category term="ZWSOFT" scheme="https://www.minbit.top/tags/ZWSOFT/"/>
-    <id>https://www.minbit.top/posts/70821.html</id>
-    <link href="https://www.minbit.top/posts/70821.html"/>
-    <published>2026-10-06T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h1>实习总结</h1>
-<blockquote>
-<p>2026.07.23 – 2026.09.28，在广州中望龙腾软件（ZWSOFT）的软件框架小组待了三个月。这是我第二段实习，也是目前为止最&quot;深&quot;的一段 —— 前面那两个月像在不停地拆各种炸弹，这三个月则是一头扎进 1,591 万行 C++ 的商业代码里，写属于自己的静态分析规则。这篇是对这三个月的一个整理，也方便以后]]>
-    </summary>
-    <title>中望软件-实习总结</title>
-    <updated>2026-10-06T16:00:00.000Z</updated>
-  </entry>
+  <updated>2026-09-30T16:00:00.000Z</updated>
   <entry>
     <author>
       <name>小米里的大麦</name>
@@ -405,5 +387,27 @@
     </summary>
     <title>2025 年度总结</title>
     <updated>2025-12-31T16:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小米里的大麦</name>
+    </author>
+    <category term="MySQL" scheme="https://www.minbit.top/categories/MySQL/"/>
+    <category term="MySQL" scheme="https://www.minbit.top/tags/MySQL/"/>
+    <id>https://www.minbit.top/posts/5909.html</id>
+    <link href="https://www.minbit.top/posts/5909.html"/>
+    <published>2025-12-28T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1>MySQL 用户管理</h1>
+<h2 id="1-用户">1. 用户</h2>
+<h3 id="1-查看用户信息">1. 查看用户信息</h3>
+<p>MySQL 8 的用户信息主要在 <strong><code>mysql.user</code></strong> 表里。常用几种方式：</p>
+<ul>
+<li><strong>查所有用户：</strong></li>
+</ul>
+<f]]>
+    </summary>
+    <title>18 MySQL 用户管理</title>
+    <updated>2025-12-29T02:10:00.000Z</updated>
   </entry>
 </feed>
